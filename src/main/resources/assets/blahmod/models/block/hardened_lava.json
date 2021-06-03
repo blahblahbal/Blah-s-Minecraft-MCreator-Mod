@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "blahmod:blocks/hardenedlava",
-    "up": "blahmod:blocks/hardenedlava",
-    "north": "blahmod:blocks/hardenedlava",
-    "east": "blahmod:blocks/hardenedlava",
-    "south": "blahmod:blocks/hardenedlava",
-    "west": "blahmod:blocks/hardenedlava",
-    "particle": "blahmod:blocks/hardenedlava"
+    "down": "blahmod:blocks/hardened_lava_animated",
+    "up": "blahmod:blocks/hardened_lava_animated",
+    "north": "blahmod:blocks/hardened_lava_animated",
+    "east": "blahmod:blocks/hardened_lava_animated",
+    "south": "blahmod:blocks/hardened_lava_animated",
+    "west": "blahmod:blocks/hardened_lava_animated",
+    "particle": "blahmod:blocks/hardened_lava_animated"
   }
 }
