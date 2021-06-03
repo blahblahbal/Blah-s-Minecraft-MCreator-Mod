@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:cobblestone_door"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 2
+  }
+}

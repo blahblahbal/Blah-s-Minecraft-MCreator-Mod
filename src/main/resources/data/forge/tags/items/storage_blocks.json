@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:tadanite_block",
+    "blahmod:sulphur_block",
+    "blahmod:lumite_block",
+    "blahmod:zircon_block",
+    "blahmod:limestone_block",
+    "blahmod:blaze_brick",
+    "blahmod:carrot_block",
+    "blahmod:mashed_potato_block",
+    "blahmod:amethyst_block",
+    "blahmod:citrine_block",
+    "blahmod:topaz_block",
+    "blahmod:sapphire_block",
+    "blahmod:ruby_block",
+    "blahmod:leather_block",
+    "blahmod:osborgnen_coal_block",
+    "blahmod:xenon_lamp",
+    "blahmod:argon_lamp",
+    "blahmod:krypton_lamp",
+    "blahmod:flint_block",
+    "blahmod:uranium_block",
+    "blahmod:neon_lamp"
+  ]
+}

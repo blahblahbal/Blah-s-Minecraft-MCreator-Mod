@@ -1,0 +1,153 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 210,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 23,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "xCoord",
+          "x": 150,
+          "y": 29
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "yCoord",
+          "x": 150,
+          "y": 50
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "x.png",
+          "use1Xscale": false,
+          "name": "x.png",
+          "x": 137,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "y.png",
+          "use1Xscale": false,
+          "name": "y.png",
+          "x": 137,
+          "y": 56
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "zCoord",
+          "x": 150,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "z.png",
+          "use1Xscale": false,
+          "name": "z.png",
+          "x": 137,
+          "y": 77
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.ENDER_PEARL"
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 276,
+          "y": 30
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ender_teleporter.png",
+          "use1Xscale": false,
+          "name": "ender_teleporter.png",
+          "x": 167,
+          "y": 19
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " ",
+          "onClick": {
+            "name": "EnderTeleporterButtonClicked"
+          },
+          "width": 75,
+          "height": 20,
+          "name": " ",
+          "x": 144,
+          "y": 115
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "teleport.png",
+          "use1Xscale": false,
+          "name": "teleport.png",
+          "x": 158,
+          "y": 100
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "save.png",
+          "use1Xscale": false,
+          "name": "save.png",
+          "x": 244,
+          "y": 100
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " ",
+          "onClick": {
+            "name": "ETPSaveButtonClicked"
+          },
+          "width": 50,
+          "height": 20,
+          "name": " ",
+          "x": 232,
+          "y": 115
+        }
+      }
+    ],
+    "onOpen": {
+      "name": "EnderTPSoundPro"
+    }
+  }
+}

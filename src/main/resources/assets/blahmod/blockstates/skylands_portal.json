@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "blahmod:block/skylands_portal_ew"
+    },
+    "axis=x": {
+      "model": "blahmod:block/skylands_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:sapphire_wall"
+    }
+  ],
+  "result": {
+    "item": "blahmod:sapphire_block",
+    "count": 1
+  }
+}

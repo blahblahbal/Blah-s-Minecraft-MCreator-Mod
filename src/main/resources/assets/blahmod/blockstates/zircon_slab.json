@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/zircon_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/zircon_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/zircon_slab_full"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "blahmod:block/nether_core_portal_ew"
+    },
+    "axis=x": {
+      "model": "blahmod:block/nether_core_portal_ns"
+    }
+  }
+}

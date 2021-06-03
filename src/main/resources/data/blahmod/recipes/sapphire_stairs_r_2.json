@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "blahmod:sapphire_block"
+    },
+    "4": {
+      "item": "blahmod:sapphire_block"
+    },
+    "5": {
+      "item": "blahmod:sapphire_block"
+    },
+    "6": {
+      "item": "blahmod:sapphire_block"
+    },
+    "7": {
+      "item": "blahmod:sapphire_block"
+    },
+    "8": {
+      "item": "blahmod:sapphire_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:sapphire_stairs",
+    "count": 4
+  }
+}

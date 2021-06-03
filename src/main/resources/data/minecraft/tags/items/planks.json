@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:dread_planks",
+    "blahmod:tropics_planks",
+    "blahmod:cedar_planks",
+    "blahmod:frost_wood_planks",
+    "blahmod:dark_matter_planks",
+    "blahmod:whitewood_planks",
+    "blahmod:cactus_planks",
+    "blahmod:ethereal_planks",
+    "minecraft:oak_planks",
+    "minecraft:spruce_planks",
+    "minecraft:birch_planks",
+    "minecraft:jungle_planks",
+    "minecraft:acacia_planks",
+    "minecraft:warped_planks",
+    "minecraft:crimson_planks",
+    "minecraft:dark_oak_planks"
+  ]
+}

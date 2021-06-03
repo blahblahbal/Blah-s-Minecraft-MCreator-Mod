@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/igneous_rock_tile",
+    "up": "blahmod:blocks/igneous_rock_tile",
+    "north": "blahmod:blocks/igneous_rock_tile",
+    "east": "blahmod:blocks/igneous_rock_tile",
+    "south": "blahmod:blocks/igneous_rock_tile",
+    "west": "blahmod:blocks/igneous_rock_tile",
+    "particle": "blahmod:blocks/igneous_rock_tile"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DreadRockBricks"
+      },
+      {
+        "value": "CUSTOM:DreadRockBricks"
+      },
+      {
+        "value": "CUSTOM:DreadRockBricks"
+      },
+      {
+        "value": "CUSTOM:DreadRockBricks"
+      },
+      {
+        "value": "CUSTOM:DreadRockBricks"
+      },
+      {
+        "value": "CUSTOM:DreadRockBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DreadRockBricksWall"
+    },
+    "name": "dread_rock_bricks_wall_recipe",
+    "namespace": "mod"
+  }
+}

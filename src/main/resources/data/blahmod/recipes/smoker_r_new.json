@@ -1,0 +1,30 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "tag": "smoker_tag"
+    },
+    "3": {
+      "tag": "smoker_tag"
+    },
+    "4": {
+      "item": "minecraft:furnace"
+    },
+    "5": {
+      "tag": "smoker_tag"
+    },
+    "7": {
+      "tag": "smoker_tag"
+    }
+  },
+  "result": {
+    "item": "minecraft:smoker",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TropicsMudBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TropicsMudBricks"
+      },
+      {
+        "value": "CUSTOM:TropicsMudBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TropicsMudBricks"
+      },
+      {
+        "value": "CUSTOM:TropicsMudBricks"
+      },
+      {
+        "value": "CUSTOM:TropicsMudBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TropicsMudBrickStairs"
+    },
+    "name": "tropics_mud_brick_stairs_r",
+    "namespace": "mod"
+  }
+}

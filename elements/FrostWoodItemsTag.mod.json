@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:FrostWoodWood"
+      },
+      {
+        "value": "CUSTOM:FrostWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "frostwood_log",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:raw_gold"
+    },
+    "1": {
+      "item": "blahmod:raw_gold"
+    },
+    "2": {
+      "item": "blahmod:raw_gold"
+    },
+    "3": {
+      "item": "blahmod:raw_gold"
+    },
+    "4": {
+      "item": "blahmod:raw_gold"
+    },
+    "5": {
+      "item": "blahmod:raw_gold"
+    },
+    "6": {
+      "item": "blahmod:raw_gold"
+    },
+    "7": {
+      "item": "blahmod:raw_gold"
+    },
+    "8": {
+      "item": "blahmod:raw_gold"
+    }
+  },
+  "result": {
+    "item": "blahmod:raw_gold_block",
+    "count": 1
+  }
+}

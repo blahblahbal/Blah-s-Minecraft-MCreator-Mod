@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/sapphire_ore_gembiome",
+    "up": "blahmod:blocks/sapphire_ore_gembiome",
+    "north": "blahmod:blocks/sapphire_ore_gembiome",
+    "east": "blahmod:blocks/sapphire_ore_gembiome",
+    "south": "blahmod:blocks/sapphire_ore_gembiome",
+    "west": "blahmod:blocks/sapphire_ore_gembiome",
+    "particle": "blahmod:blocks/sapphire_ore_gembiome"
+  }
+}

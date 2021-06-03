@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Blah Blocks",
+    "icon": {
+      "value": "CUSTOM:BlazeBrick"
+    },
+    "showSearch": true
+  }
+}

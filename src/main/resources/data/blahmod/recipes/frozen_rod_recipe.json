@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:obsidified_blaze_rod"
+    },
+    "1": {
+      "item": "blahmod:ice_cream_block"
+    },
+    "2": {
+      "item": "blahmod:obsidified_blaze_rod"
+    },
+    "3": {
+      "item": "blahmod:ice_cream_block"
+    },
+    "4": {
+      "item": "blahmod:tadanite_block"
+    },
+    "5": {
+      "item": "blahmod:ice_cream_block"
+    },
+    "6": {
+      "item": "blahmod:obsidified_blaze_rod"
+    },
+    "7": {
+      "item": "blahmod:ice_cream_block"
+    },
+    "8": {
+      "item": "blahmod:obsidified_blaze_rod"
+    }
+  },
+  "result": {
+    "item": "blahmod:frozen_rod",
+    "count": 1
+  }
+}

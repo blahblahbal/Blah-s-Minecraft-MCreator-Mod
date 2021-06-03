@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lumitehoe",
+    "customModelName": "Normal",
+    "name": "§6Lumite Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTabBlahItems"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 6,
+    "efficiency": 15.0,
+    "attackSpeed": 1.0,
+    "enchantability": 25,
+    "damageVsEntity": 6.0,
+    "usageCount": 4500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LumiteIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

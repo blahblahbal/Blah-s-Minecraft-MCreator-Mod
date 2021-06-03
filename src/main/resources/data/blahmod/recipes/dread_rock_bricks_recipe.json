@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:dread_rock"
+    },
+    "1": {
+      "item": "blahmod:dread_rock"
+    },
+    "2": {
+      "item": "blahmod:dread_rock"
+    },
+    "3": {
+      "item": "blahmod:dread_rock"
+    }
+  },
+  "result": {
+    "item": "blahmod:dread_rock_bricks",
+    "count": 4
+  }
+}

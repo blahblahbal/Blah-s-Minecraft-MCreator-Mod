@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/sulphurblock",
+    "particle": "blahmod:blocks/sulphurblock",
+    "side": "blahmod:blocks/sulphurblock",
+    "top": "blahmod:blocks/sulphurblock",
+    "bottom": "blahmod:blocks/sulphurblock"
+  }
+}

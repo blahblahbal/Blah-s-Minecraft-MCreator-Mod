@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/tadanite",
+    "particle": "blahmod:blocks/tadanite",
+    "side": "blahmod:blocks/tadanite",
+    "top": "blahmod:blocks/tadanite",
+    "bottom": "blahmod:blocks/tadanite"
+  }
+}

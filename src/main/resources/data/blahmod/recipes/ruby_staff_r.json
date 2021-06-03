@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:ruby_block"
+    },
+    "1": {
+      "item": "blahmod:ruby_block"
+    },
+    "2": {
+      "item": "blahmod:petrified_wood"
+    }
+  },
+  "result": {
+    "item": "blahmod:ruby_staff",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DreadSand"
+      },
+      {
+        "value": "CUSTOM:BlackSand"
+      },
+      {
+        "value": "CUSTOM:FrostSand"
+      },
+      {
+        "value": "CUSTOM:Bonesand"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "sand",
+    "namespace": "forge"
+  }
+}

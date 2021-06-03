@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blahmod:blocks/petrified_planks",
+    "top": "blahmod:blocks/petrified_planks",
+    "side": "blahmod:blocks/petrified_planks"
+  }
+}

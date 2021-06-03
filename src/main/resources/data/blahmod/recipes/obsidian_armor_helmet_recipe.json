@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:obsidian_ingot"
+    },
+    "1": {
+      "item": "blahmod:obsidian_ingot"
+    },
+    "2": {
+      "item": "blahmod:obsidian_ingot"
+    },
+    "3": {
+      "item": "blahmod:obsidian_ingot"
+    },
+    "4": {
+      "item": "blahmod:obsidian_construct"
+    },
+    "5": {
+      "item": "blahmod:obsidian_ingot"
+    }
+  },
+  "result": {
+    "item": "blahmod:obsidian_armor_helmet",
+    "count": 1
+  }
+}

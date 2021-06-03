@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:magma_rock_bricks"
+    },
+    "3": {
+      "item": "blahmod:magma_rock_bricks"
+    },
+    "4": {
+      "item": "blahmod:magma_rock_bricks"
+    },
+    "6": {
+      "item": "blahmod:magma_rock_bricks"
+    },
+    "7": {
+      "item": "blahmod:magma_rock_bricks"
+    },
+    "8": {
+      "item": "blahmod:magma_rock_bricks"
+    }
+  },
+  "result": {
+    "item": "blahmod:magma_rock_brick_stairs",
+    "count": 4
+  }
+}

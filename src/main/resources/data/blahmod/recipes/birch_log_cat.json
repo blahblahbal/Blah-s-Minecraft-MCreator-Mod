@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "blahmod:sulphur"
+    }
+  ],
+  "result": {
+    "item": "minecraft:birch_log",
+    "count": 1
+  }
+}

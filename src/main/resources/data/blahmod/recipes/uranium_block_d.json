@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:uranium_block"
+    }
+  ],
+  "result": {
+    "item": "blahmod:uranium_ingot",
+    "count": 9
+  }
+}

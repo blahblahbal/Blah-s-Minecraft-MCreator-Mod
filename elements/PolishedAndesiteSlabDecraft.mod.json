@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.STONE#6"
+    },
+    "name": "polished_andesite_slab_decraft",
+    "namespace": "mod"
+  }
+}

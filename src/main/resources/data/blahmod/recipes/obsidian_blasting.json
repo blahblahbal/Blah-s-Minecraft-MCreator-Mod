@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 0.84,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "item": "blahmod:obsidian_ingot"
+  }
+}

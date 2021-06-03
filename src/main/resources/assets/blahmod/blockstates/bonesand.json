@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "blahmod:block/bonesand"
+    },
+    {
+      "model": "blahmod:block/bonesand",
+      "y" : 90
+    },
+    {
+      "model": "blahmod:block/bonesand",
+      "y" : 180
+    },
+    {
+      "model": "blahmod:block/bonesand",
+      "y" : 270
+    }
+    ]
+  }
+}

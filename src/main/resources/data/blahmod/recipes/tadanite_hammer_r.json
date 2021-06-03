@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "blahmod:netherite_hammer"
+  },
+  "addition": {
+    "item": "blahmod:tadanite_diamond"
+  },
+  "result": {
+    "item": "blahmod:tadanite_hammer"
+  }
+}

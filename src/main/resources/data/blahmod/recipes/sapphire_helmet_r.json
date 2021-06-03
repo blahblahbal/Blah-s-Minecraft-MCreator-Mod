@@ -1,0 +1,29 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:sapphire"
+    },
+    "1": {
+      "item": "blahmod:sapphire"
+    },
+    "2": {
+      "item": "blahmod:sapphire"
+    },
+    "3": {
+      "item": "blahmod:sapphire"
+    },
+    "5": {
+      "item": "blahmod:sapphire"
+    }
+  },
+  "result": {
+    "item": "blahmod:sapphire_armor_helmet",
+    "count": 1
+  }
+}

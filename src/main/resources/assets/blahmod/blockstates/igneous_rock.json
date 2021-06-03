@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "blahmod:block/igneous_rock"
+    },
+    {
+      "model": "blahmod:block/igneous_rock",
+      "y" : 90
+    },
+    {
+      "model": "blahmod:block/igneous_rock",
+      "y" : 180
+    },
+    {
+      "model": "blahmod:block/igneous_rock",
+      "y" : 270
+    }
+    ]
+  }
+}

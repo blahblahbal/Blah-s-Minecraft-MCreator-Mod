@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ender_teleporter_side",
+        "1": "ender_teleporter_top",
+        "2": "chiseledendstone"
+      },
+      "name": "default"
+    }
+  }
+}

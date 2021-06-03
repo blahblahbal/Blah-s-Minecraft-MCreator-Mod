@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cut_frost_sandstone_slab"
+    },
+    "1": {
+      "item": "blahmod:cut_frost_sandstone_slab"
+    },
+    "2": {
+      "item": "blahmod:cut_frost_sandstone_slab"
+    },
+    "3": {
+      "item": "blahmod:cut_frost_sandstone_slab"
+    },
+    "4": {
+      "item": "blahmod:cut_frost_sandstone_slab"
+    },
+    "5": {
+      "item": "blahmod:cut_frost_sandstone_slab"
+    }
+  },
+  "result": {
+    "item": "blahmod:smooth_frost_sandstone",
+    "count": 3
+  }
+}

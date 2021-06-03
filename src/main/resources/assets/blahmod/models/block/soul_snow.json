@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/soulsnow",
+    "up": "blahmod:blocks/soulsnow",
+    "north": "blahmod:blocks/soulsnow",
+    "east": "blahmod:blocks/soulsnow",
+    "south": "blahmod:blocks/soulsnow",
+    "west": "blahmod:blocks/soulsnow",
+    "particle": "blahmod:blocks/soulsnow"
+  }
+}

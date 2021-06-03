@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:nether_ice"
+    },
+    "1": {
+      "item": "blahmod:nether_ice"
+    },
+    "2": {
+      "item": "blahmod:nether_ice"
+    },
+    "3": {
+      "item": "blahmod:nether_ice"
+    }
+  },
+  "result": {
+    "item": "blahmod:nether_ice_brick",
+    "count": 4
+  }
+}

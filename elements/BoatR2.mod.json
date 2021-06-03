@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TropicsPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TropicsPlanks"
+      },
+      {
+        "value": "CUSTOM:TropicsPlanks"
+      },
+      {
+        "value": "CUSTOM:TropicsPlanks"
+      },
+      {
+        "value": "CUSTOM:TropicsPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.BOAT"
+    },
+    "name": "boat_r_2",
+    "namespace": "mod"
+  }
+}

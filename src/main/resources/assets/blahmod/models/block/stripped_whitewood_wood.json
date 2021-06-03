@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/stripped_whitewood_log",
+    "up": "blahmod:blocks/stripped_whitewood_log",
+    "north": "blahmod:blocks/stripped_whitewood_log",
+    "east": "blahmod:blocks/stripped_whitewood_log",
+    "south": "blahmod:blocks/stripped_whitewood_log",
+    "west": "blahmod:blocks/stripped_whitewood_log",
+    "particle": "blahmod:blocks/stripped_whitewood_log"
+  }
+}

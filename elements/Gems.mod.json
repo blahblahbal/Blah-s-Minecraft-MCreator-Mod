@@ -1,0 +1,41 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TadaniteCrystal"
+      },
+      {
+        "value": "CUSTOM:Sulphur"
+      },
+      {
+        "value": "CUSTOM:Limestone"
+      },
+      {
+        "value": "CUSTOM:Amethyst"
+      },
+      {
+        "value": "CUSTOM:Citrine"
+      },
+      {
+        "value": "CUSTOM:Topaz"
+      },
+      {
+        "value": "CUSTOM:Sapphire"
+      },
+      {
+        "value": "CUSTOM:Ruby"
+      },
+      {
+        "value": "CUSTOM:Sunstone"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "gems",
+    "namespace": "forge"
+  }
+}

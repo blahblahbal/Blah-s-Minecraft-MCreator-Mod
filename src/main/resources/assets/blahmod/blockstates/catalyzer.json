@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blahmod:block/catalyzer"
+    },
+    "facing=east": {
+      "model": "blahmod:block/catalyzer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "blahmod:block/catalyzer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blahmod:block/catalyzer",
+      "y": 270
+    }
+  }
+}

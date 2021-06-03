@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/hardenedlava",
+    "up": "blahmod:blocks/hardenedlava",
+    "north": "blahmod:blocks/hardenedlava",
+    "east": "blahmod:blocks/hardenedlava",
+    "south": "blahmod:blocks/hardenedlava",
+    "west": "blahmod:blocks/hardenedlava",
+    "particle": "blahmod:blocks/hardenedlava"
+  }
+}

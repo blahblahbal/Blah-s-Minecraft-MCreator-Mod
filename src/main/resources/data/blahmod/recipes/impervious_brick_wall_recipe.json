@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:impervious_brick"
+    },
+    "1": {
+      "item": "blahmod:impervious_brick"
+    },
+    "2": {
+      "item": "blahmod:impervious_brick"
+    },
+    "3": {
+      "item": "blahmod:impervious_brick"
+    },
+    "4": {
+      "item": "blahmod:impervious_brick"
+    },
+    "5": {
+      "item": "blahmod:impervious_brick"
+    }
+  },
+  "result": {
+    "item": "blahmod:impervious_brick_wall",
+    "count": 6
+  }
+}

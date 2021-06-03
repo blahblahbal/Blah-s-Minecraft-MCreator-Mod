@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blahmod:blocks/topazblock",
+    "top": "blahmod:blocks/topazblock",
+    "side": "blahmod:blocks/topazblock"
+  }
+}

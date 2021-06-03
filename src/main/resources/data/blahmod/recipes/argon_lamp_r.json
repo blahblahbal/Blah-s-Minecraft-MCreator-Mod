@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:argon_crystal"
+    },
+    "1": {
+      "item": "blahmod:argon_crystal"
+    },
+    "2": {
+      "item": "blahmod:argon_crystal"
+    },
+    "3": {
+      "item": "blahmod:argon_crystal"
+    },
+    "4": {
+      "item": "blahmod:argon_crystal"
+    },
+    "5": {
+      "item": "blahmod:argon_crystal"
+    },
+    "6": {
+      "item": "blahmod:argon_crystal"
+    },
+    "7": {
+      "item": "blahmod:argon_crystal"
+    },
+    "8": {
+      "item": "blahmod:argon_crystal"
+    }
+  },
+  "result": {
+    "item": "blahmod:argon_lamp",
+    "count": 1
+  }
+}

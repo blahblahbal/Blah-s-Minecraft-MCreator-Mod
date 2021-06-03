@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/polishednetherrack",
+    "up": "blahmod:blocks/polishednetherrack",
+    "north": "blahmod:blocks/polishednetherrack",
+    "east": "blahmod:blocks/polishednetherrack",
+    "south": "blahmod:blocks/polishednetherrack",
+    "west": "blahmod:blocks/polishednetherrack",
+    "particle": "blahmod:blocks/polishednetherrack"
+  }
+}

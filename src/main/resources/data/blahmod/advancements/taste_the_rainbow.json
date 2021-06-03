@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "blahmod:ruby"
+    },
+    "title": {
+      "translate": "advancements.taste_the_rainbow.title"
+    },
+    "description": {
+      "translate": "advancements.taste_the_rainbow.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "taste_the_rainbow": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "blahmod:catalyzer_achievement"
+}

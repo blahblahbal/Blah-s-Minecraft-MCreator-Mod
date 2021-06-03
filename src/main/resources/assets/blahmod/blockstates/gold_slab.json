@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/gold_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/gold_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/gold_slab_full"
+    }
+  }
+}

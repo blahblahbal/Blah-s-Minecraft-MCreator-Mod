@@ -1,0 +1,19 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:tropics_cobblestone"
+    },
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "blahmod:tropics_cobblestone"
+    }
+  ],
+  "result": {
+    "item": "blahmod:mossy_cloud_cobblestone",
+    "count": 2
+  }
+}

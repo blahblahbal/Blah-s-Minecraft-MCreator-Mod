@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:whitewood_door"
+    }
+  ],
+  "result": {
+    "item": "blahmod:whitewood_planks",
+    "count": 2
+  }
+}

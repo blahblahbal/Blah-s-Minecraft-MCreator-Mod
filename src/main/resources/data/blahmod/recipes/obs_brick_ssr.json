@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:obsidian_brick"
+    },
+    "1": {
+      "item": "blahmod:obsidian_brick"
+    },
+    "2": {
+      "item": "blahmod:obsidian_brick"
+    }
+  },
+  "result": {
+    "item": "blahmod:obsidian_brick_side_slab",
+    "count": 6
+  }
+}

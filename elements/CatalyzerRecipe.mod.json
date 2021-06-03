@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:planks"
+      },
+      {
+        "value": "TAG:planks"
+      },
+      {
+        "value": "TAG:planks"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:SulphurBlock"
+      },
+      {
+        "value": "Blocks.CRAFTING_TABLE"
+      },
+      {
+        "value": "CUSTOM:SulphurBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Catalyzer"
+    },
+    "name": "catalyzer_recipe",
+    "namespace": "mod"
+  }
+}

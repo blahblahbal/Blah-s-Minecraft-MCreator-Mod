@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CitrineOre"
+      },
+      {
+        "value": "CUSTOM:CitrineOreGemBiome"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ores/citrine",
+    "namespace": "forge"
+  }
+}

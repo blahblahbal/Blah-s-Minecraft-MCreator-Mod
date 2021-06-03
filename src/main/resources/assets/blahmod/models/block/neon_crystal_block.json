@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blahmod:blocks/neon_crystal_block",
+    "particle": "blahmod:blocks/neon_crystal_block"
+  }
+}

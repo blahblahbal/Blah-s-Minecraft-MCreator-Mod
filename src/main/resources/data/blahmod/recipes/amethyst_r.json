@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:amethyst_shard"
+    },
+    "1": {
+      "item": "blahmod:amethyst_shard"
+    },
+    "2": {
+      "item": "blahmod:amethyst_shard"
+    },
+    "3": {
+      "item": "blahmod:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "blahmod:amethyst",
+    "count": 1
+  }
+}

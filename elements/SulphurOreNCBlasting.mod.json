@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 5.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:SulphurOreNC"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Sulphur"
+    },
+    "name": "sulphur_ore_nc_blasting",
+    "namespace": "mod"
+  }
+}

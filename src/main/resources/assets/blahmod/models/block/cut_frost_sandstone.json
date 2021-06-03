@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/frostsandstone_top",
+    "up": "blahmod:blocks/frostsandstone_top",
+    "north": "blahmod:blocks/frostsandstone_top",
+    "east": "blahmod:blocks/frostsandstone_top",
+    "south": "blahmod:blocks/frostsandstone_top",
+    "west": "blahmod:blocks/frostsandstone_top",
+    "particle": "blahmod:blocks/frostsandstone_top"
+  }
+}

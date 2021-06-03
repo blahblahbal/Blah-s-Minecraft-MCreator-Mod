@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/cement",
+    "particle": "blahmod:blocks/cement",
+    "side": "blahmod:blocks/cement",
+    "top": "blahmod:blocks/cement",
+    "bottom": "blahmod:blocks/cement"
+  }
+}

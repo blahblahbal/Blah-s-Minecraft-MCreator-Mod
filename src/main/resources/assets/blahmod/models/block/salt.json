@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/salt_top",
+    "up": "blahmod:blocks/salt_top",
+    "north": "blahmod:blocks/salt_side",
+    "east": "blahmod:blocks/salt_side",
+    "south": "blahmod:blocks/salt_side",
+    "west": "blahmod:blocks/salt_side",
+    "particle": "blahmod:blocks/salt_top"
+  }
+}

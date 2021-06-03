@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 3,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "blahmod:lumite_ore"
+  },
+  "result": {
+    "item": "blahmod:lumite_ingot"
+  }
+}

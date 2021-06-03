@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 2.8,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "blahmod:tadanite_ore"
+  },
+  "result": {
+    "item": "blahmod:tadanite_crystal"
+  }
+}

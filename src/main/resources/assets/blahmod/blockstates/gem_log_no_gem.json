@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "blahmod:block/gem_log_no_gem"
+    },
+    "facing=north": {
+      "model": "blahmod:block/gem_log_no_gem"
+    },
+    "facing=east": {
+      "model": "blahmod:block/gem_log_no_gem",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "blahmod:block/gem_log_no_gem",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "blahmod:block/gem_log_no_gem",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "blahmod:block/gem_log_no_gem",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

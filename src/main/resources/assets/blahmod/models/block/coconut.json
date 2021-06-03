@@ -1,0 +1,7 @@
+{
+  "parent": "blahmod:custom/coconut",
+  "textures": {
+    "all": "blahmod:blocks/coconut",
+    "particle": "blahmod:blocks/coconut"
+  }
+}

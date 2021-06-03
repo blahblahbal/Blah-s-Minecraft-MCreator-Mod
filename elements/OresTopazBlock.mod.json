@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:TopazOre"
+      },
+      {
+        "value": "CUSTOM:TopazOreGemBiome"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/topaz",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SulphurOre"
+      },
+      {
+        "value": "CUSTOM:SulphurOreNC"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/sulfur",
+    "namespace": "forge"
+  }
+}

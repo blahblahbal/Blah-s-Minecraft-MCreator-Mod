@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/dead_planks",
+    "particle": "blahmod:blocks/dead_planks",
+    "side": "blahmod:blocks/dead_planks",
+    "top": "blahmod:blocks/dead_planks",
+    "bottom": "blahmod:blocks/dead_planks"
+  }
+}

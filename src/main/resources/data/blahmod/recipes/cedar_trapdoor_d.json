@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cedar_trapdoor"
+    }
+  },
+  "result": {
+    "item": "blahmod:cedar_planks",
+    "count": 3
+  }
+}

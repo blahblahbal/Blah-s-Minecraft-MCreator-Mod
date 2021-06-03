@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/ruby_block",
+    "particle": "blahmod:blocks/ruby_block",
+    "side": "blahmod:blocks/ruby_block",
+    "top": "blahmod:blocks/ruby_block",
+    "bottom": "blahmod:blocks/ruby_block"
+  }
+}

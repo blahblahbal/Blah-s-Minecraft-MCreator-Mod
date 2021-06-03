@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blahmod:blocks/frostleaves",
+    "particle": "blahmod:blocks/frostleaves"
+  }
+}

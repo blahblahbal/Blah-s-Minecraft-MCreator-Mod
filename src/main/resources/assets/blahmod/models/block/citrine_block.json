@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/citrineblock",
+    "up": "blahmod:blocks/citrineblock",
+    "north": "blahmod:blocks/citrineblock",
+    "east": "blahmod:blocks/citrineblock",
+    "south": "blahmod:blocks/citrineblock",
+    "west": "blahmod:blocks/citrineblock",
+    "particle": "blahmod:blocks/citrineblock"
+  }
+}

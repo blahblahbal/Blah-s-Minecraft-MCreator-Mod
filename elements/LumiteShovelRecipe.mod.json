@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:TadaniteShovel"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:LumiteConstruct"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:LumiteShovel"
+    },
+    "name": "lumite_shovel_recipe",
+    "namespace": "mod"
+  }
+}

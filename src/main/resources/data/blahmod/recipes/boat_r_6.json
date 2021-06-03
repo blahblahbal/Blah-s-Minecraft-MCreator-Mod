@@ -1,0 +1,29 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:dark_matter_planks"
+    },
+    "2": {
+      "item": "blahmod:dark_matter_planks"
+    },
+    "3": {
+      "item": "blahmod:dark_matter_planks"
+    },
+    "4": {
+      "item": "blahmod:dark_matter_planks"
+    },
+    "5": {
+      "item": "blahmod:dark_matter_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:oak_boat",
+    "count": 1
+  }
+}

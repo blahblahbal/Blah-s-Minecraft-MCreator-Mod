@@ -1,0 +1,27 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "   ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:tropics_planks"
+    },
+    "2": {
+      "item": "blahmod:tropics_planks"
+    },
+    "6": {
+      "item": "blahmod:tropics_planks"
+    },
+    "8": {
+      "item": "blahmod:tropics_planks"
+    }
+  },
+  "result": {
+    "item": "blahmod:tropics_log",
+    "count": 1
+  }
+}

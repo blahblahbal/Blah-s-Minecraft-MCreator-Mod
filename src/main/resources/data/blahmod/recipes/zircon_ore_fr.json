@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:smelting",
+  "experience": 4,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "blahmod:zircon_ore"
+  },
+  "result": {
+    "item": "blahmod:zircon"
+  }
+}

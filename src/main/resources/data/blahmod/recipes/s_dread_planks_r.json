@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:stripped_dread_log"
+    }
+  ],
+  "result": {
+    "item": "blahmod:dread_planks",
+    "count": 4
+  }
+}

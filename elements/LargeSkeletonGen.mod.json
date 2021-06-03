@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "structure",
+  "definition": {
+    "structure": "large_skeleton",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": -5,
+    "spawnZOffset": -9,
+    "spawnWorldTypes": [
+      "CUSTOM:Skylands"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Bonesand"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Ancient"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "blahmod:smooth_black_sandstone"
+    },
+    "4": {
+      "item": "blahmod:smooth_black_sandstone"
+    },
+    "5": {
+      "item": "blahmod:smooth_black_sandstone"
+    },
+    "6": {
+      "item": "blahmod:smooth_black_sandstone"
+    },
+    "7": {
+      "item": "blahmod:smooth_black_sandstone"
+    },
+    "8": {
+      "item": "blahmod:smooth_black_sandstone"
+    }
+  },
+  "result": {
+    "item": "blahmod:cut_black_sandstone_stairs",
+    "count": 4
+  }
+}

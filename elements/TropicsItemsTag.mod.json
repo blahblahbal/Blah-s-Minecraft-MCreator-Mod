@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TropicsWood"
+      },
+      {
+        "value": "CUSTOM:TropicsLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "tropics_log",
+    "namespace": "forge"
+  }
+}

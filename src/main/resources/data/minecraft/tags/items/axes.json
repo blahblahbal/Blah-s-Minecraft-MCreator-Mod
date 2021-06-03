@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:tadanite_axe",
+    "blahmod:obsidian_axe",
+    "blahmod:lumite_axe",
+    "blahmod:sapphire_axe",
+    "minecraft:wooden_axe",
+    "minecraft:stone_axe",
+    "minecraft:iron_axe",
+    "minecraft:golden_axe",
+    "minecraft:diamond_axe"
+  ]
+}

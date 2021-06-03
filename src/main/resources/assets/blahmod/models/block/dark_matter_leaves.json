@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blahmod:blocks/dark_matter_leaves",
+    "particle": "blahmod:blocks/dark_matter_leaves"
+  }
+}

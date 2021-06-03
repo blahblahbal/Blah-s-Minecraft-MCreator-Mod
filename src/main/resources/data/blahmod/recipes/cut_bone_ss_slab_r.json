@@ -1,0 +1,22 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cut_bonesandstone"
+    },
+    "1": {
+      "item": "blahmod:cut_bonesandstone"
+    },
+    "2": {
+      "item": "blahmod:cut_bonesandstone"
+    }
+  },
+  "result": {
+    "item": "blahmod:cut_bone_ss_slab",
+    "count": 6
+  }
+}

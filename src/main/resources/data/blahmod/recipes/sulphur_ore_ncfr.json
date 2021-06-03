@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:smelting",
+  "experience": 7,
+  "cookingtime": 140,
+  "ingredient": {
+    "item": "blahmod:sulphur_ore_nc"
+  },
+  "result": {
+    "item": "blahmod:sulphur"
+  }
+}

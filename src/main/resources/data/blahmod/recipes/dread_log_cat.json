@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:dark_matter_log"
+    },
+    {
+      "item": "blahmod:sulphur"
+    }
+  ],
+  "result": {
+    "item": "blahmod:dread_log",
+    "count": 1
+  }
+}

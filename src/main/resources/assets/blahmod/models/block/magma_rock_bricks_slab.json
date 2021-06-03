@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blahmod:blocks/magmarockbricks",
+    "top": "blahmod:blocks/magmarockbricks",
+    "side": "blahmod:blocks/magmarockbricks"
+  }
+}

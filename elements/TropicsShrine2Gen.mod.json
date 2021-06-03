@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "structure",
+  "definition": {
+    "structure": "tropics_shrine_2",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 2000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -14,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BlackSand"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Tropics"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

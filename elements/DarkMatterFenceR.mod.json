@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkMatterPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:DarkMatterPlanks"
+      },
+      {
+        "value": "CUSTOM:DarkMatterPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:DarkMatterPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkMatterFence"
+    },
+    "name": "dark_matter_fence_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/limestoneore",
+    "up": "blahmod:blocks/limestoneore",
+    "north": "blahmod:blocks/limestoneore",
+    "east": "blahmod:blocks/limestoneore",
+    "south": "blahmod:blocks/limestoneore",
+    "west": "blahmod:blocks/limestoneore",
+    "particle": "blahmod:blocks/limestoneore"
+  }
+}

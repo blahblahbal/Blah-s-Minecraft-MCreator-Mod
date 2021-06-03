@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blahmod:block/netherfrost_brick_side_slab"
+    },
+    "facing=east": {
+      "model": "blahmod:block/netherfrost_brick_side_slab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "blahmod:block/netherfrost_brick_side_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blahmod:block/netherfrost_brick_side_slab",
+      "y": 270
+    }
+  }
+}

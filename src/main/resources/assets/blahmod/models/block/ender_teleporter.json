@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/enderteleporter",
+  "textures": {
+    "all": "blahmod:blocks/ender_teleporter_top",
+    "particle": "blahmod:blocks/ender_teleporter_top",
+    "0": "blahmod:blocks/ender_teleporter_side",
+    "1": "blahmod:blocks/ender_teleporter_top",
+    "2": "blahmod:blocks/chiseledendstone"
+  }
+}

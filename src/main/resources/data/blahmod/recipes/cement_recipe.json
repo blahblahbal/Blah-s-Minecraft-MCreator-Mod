@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clay"
+    },
+    "1": {
+      "item": "blahmod:limestone"
+    },
+    "2": {
+      "item": "minecraft:clay"
+    },
+    "3": {
+      "item": "blahmod:limestone"
+    },
+    "4": {
+      "item": "blahmod:limestone"
+    },
+    "5": {
+      "item": "blahmod:limestone"
+    },
+    "6": {
+      "item": "minecraft:gravel"
+    },
+    "7": {
+      "item": "minecraft:water_bucket"
+    },
+    "8": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "blahmod:cement",
+    "count": 8
+  }
+}

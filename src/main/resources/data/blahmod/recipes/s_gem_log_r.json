@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "blahmod:sapphire_gem_log"
+  },
+  "result": {
+    "item": "blahmod:sapphire_shard"
+  }
+}

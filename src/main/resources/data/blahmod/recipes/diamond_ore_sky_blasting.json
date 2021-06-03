@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 3,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "blahmod:diamond_ore_sky"
+  },
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}

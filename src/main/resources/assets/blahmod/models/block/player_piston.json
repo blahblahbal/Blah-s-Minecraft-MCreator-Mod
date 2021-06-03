@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/player_piston_side_2",
+    "up": "blahmod:blocks/piston_side",
+    "north": "blahmod:blocks/piston_top_player",
+    "east": "blahmod:blocks/player_piston_side",
+    "south": "blahmod:blocks/piston_bottom",
+    "west": "blahmod:blocks/player_piston_side_3",
+    "particle": "blahmod:blocks/player_piston_side_2"
+  }
+}

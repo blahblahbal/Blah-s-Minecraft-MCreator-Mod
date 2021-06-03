@@ -1,0 +1,22 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:sulphur_block"
+    },
+    "1": {
+      "item": "blahmod:sulphur_block"
+    },
+    "2": {
+      "item": "blahmod:sulphur_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:sulphur_slab",
+    "count": 6
+  }
+}

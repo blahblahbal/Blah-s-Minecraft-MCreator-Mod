@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wooden_hammer",
+    "customModelName": "Normal",
+    "name": "Wooden Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTabBlahItems"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 0,
+    "efficiency": 1.0,
+    "attackSpeed": 0.4,
+    "enchantability": 2,
+    "damageVsEntity": 7.5,
+    "usageCount": 35,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "MiningHammerBlockDestroyed"
+    }
+  }
+}

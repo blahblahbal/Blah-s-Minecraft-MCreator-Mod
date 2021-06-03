@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "blahmod:blocks/petrified_planks",
+    "particle": "blahmod:blocks/petrified_planks"
+  }
+}

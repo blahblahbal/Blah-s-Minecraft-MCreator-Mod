@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:compressed_obsidian",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian"
+  ]
+}

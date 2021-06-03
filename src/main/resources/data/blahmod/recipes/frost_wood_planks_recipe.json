@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:frostwood_log"
+    }
+  ],
+  "result": {
+    "item": "blahmod:frost_wood_planks",
+    "count": 4
+  }
+}

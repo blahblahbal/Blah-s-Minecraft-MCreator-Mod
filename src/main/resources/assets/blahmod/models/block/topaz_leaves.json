@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blahmod:blocks/topaz_leaves",
+    "particle": "blahmod:blocks/topaz_leaves"
+  }
+}

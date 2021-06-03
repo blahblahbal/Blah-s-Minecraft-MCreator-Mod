@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:smooth_netherrack"
+    },
+    "3": {
+      "item": "blahmod:smooth_netherrack"
+    },
+    "4": {
+      "item": "blahmod:smooth_netherrack"
+    },
+    "6": {
+      "item": "blahmod:smooth_netherrack"
+    },
+    "7": {
+      "item": "blahmod:smooth_netherrack"
+    },
+    "8": {
+      "item": "blahmod:smooth_netherrack"
+    }
+  },
+  "result": {
+    "item": "blahmod:smooth_netherrack_stairs",
+    "count": 4
+  }
+}

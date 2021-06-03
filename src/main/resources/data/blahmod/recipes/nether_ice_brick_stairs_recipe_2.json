@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "blahmod:nether_ice_brick"
+    },
+    "4": {
+      "item": "blahmod:nether_ice_brick"
+    },
+    "5": {
+      "item": "blahmod:nether_ice_brick"
+    },
+    "6": {
+      "item": "blahmod:nether_ice_brick"
+    },
+    "7": {
+      "item": "blahmod:nether_ice_brick"
+    },
+    "8": {
+      "item": "blahmod:nether_ice_brick"
+    }
+  },
+  "result": {
+    "item": "blahmod:nether_ice_brick_stairs",
+    "count": 4
+  }
+}

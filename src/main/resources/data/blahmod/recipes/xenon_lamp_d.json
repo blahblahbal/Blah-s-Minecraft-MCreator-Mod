@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:xenon_lamp"
+    }
+  ],
+  "result": {
+    "item": "blahmod:xenon_crystal",
+    "count": 9
+  }
+}

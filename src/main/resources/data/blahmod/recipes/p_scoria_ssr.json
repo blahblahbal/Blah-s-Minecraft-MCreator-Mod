@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:polished_scoria"
+    },
+    "1": {
+      "item": "blahmod:polished_scoria"
+    },
+    "2": {
+      "item": "blahmod:polished_scoria"
+    }
+  },
+  "result": {
+    "item": "blahmod:polished_scoria_side_slab",
+    "count": 6
+  }
+}

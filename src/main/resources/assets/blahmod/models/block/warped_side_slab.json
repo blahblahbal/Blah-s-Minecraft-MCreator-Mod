@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "block/warped_planks",
+    "particle": "block/warped_planks",
+    "side": "block/warped_planks",
+    "top": "block/warped_planks",
+    "bottom": "block/warped_planks"
+  }
+}

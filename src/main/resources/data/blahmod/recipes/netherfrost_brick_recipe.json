@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:netherfrost"
+    },
+    "1": {
+      "item": "blahmod:netherfrost"
+    },
+    "2": {
+      "item": "blahmod:netherfrost"
+    },
+    "3": {
+      "item": "blahmod:netherfrost"
+    }
+  },
+  "result": {
+    "item": "blahmod:netherfrost_brick",
+    "count": 1
+  }
+}

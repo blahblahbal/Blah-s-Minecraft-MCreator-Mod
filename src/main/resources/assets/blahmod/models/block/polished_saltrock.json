@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/polishedsaltrock",
+    "up": "blahmod:blocks/polishedsaltrock",
+    "north": "blahmod:blocks/polishedsaltrock",
+    "east": "blahmod:blocks/polishedsaltrock",
+    "south": "blahmod:blocks/polishedsaltrock",
+    "west": "blahmod:blocks/polishedsaltrock",
+    "particle": "blahmod:blocks/polishedsaltrock"
+  }
+}

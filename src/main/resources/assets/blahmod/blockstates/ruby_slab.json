@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/ruby_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/ruby_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/ruby_slab_full"
+    }
+  }
+}

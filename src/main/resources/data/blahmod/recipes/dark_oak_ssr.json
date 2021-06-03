@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "1": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "2": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "result": {
+    "item": "blahmod:dark_oak_side_slab",
+    "count": 6
+  }
+}

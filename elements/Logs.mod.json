@@ -1,0 +1,104 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:TropicsLog"
+      },
+      {
+        "value": "CUSTOM:CedarLog"
+      },
+      {
+        "value": "CUSTOM:FrostWoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedCedarLog"
+      },
+      {
+        "value": "CUSTOM:StrippedTropicsLog"
+      },
+      {
+        "value": "CUSTOM:StrippedFrostLog"
+      },
+      {
+        "value": "CUSTOM:DarkMatterLog"
+      },
+      {
+        "value": "CUSTOM:StrippedDarkMatterLog"
+      },
+      {
+        "value": "CUSTOM:WhitewoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedWhitewoodLog"
+      },
+      {
+        "value": "CUSTOM:RubyGemLog"
+      },
+      {
+        "value": "CUSTOM:CitrineGemLog"
+      },
+      {
+        "value": "CUSTOM:TopazGemLog"
+      },
+      {
+        "value": "CUSTOM:EmeraldGemLog"
+      },
+      {
+        "value": "CUSTOM:DiamondGemLog"
+      },
+      {
+        "value": "CUSTOM:SapphireGemLog"
+      },
+      {
+        "value": "CUSTOM:AmethystGemLog"
+      },
+      {
+        "value": "CUSTOM:DreadWood"
+      },
+      {
+        "value": "CUSTOM:TropicsWood"
+      },
+      {
+        "value": "CUSTOM:CedarWood"
+      },
+      {
+        "value": "CUSTOM:FrostWoodWood"
+      },
+      {
+        "value": "CUSTOM:StrippedCedarWood"
+      },
+      {
+        "value": "CUSTOM:StrippedFrostWood"
+      },
+      {
+        "value": "CUSTOM:StrippedDreadWood"
+      },
+      {
+        "value": "CUSTOM:StrippedTropicsWood"
+      },
+      {
+        "value": "CUSTOM:DarkMatterWood"
+      },
+      {
+        "value": "CUSTOM:StrippedDarkMatterWood"
+      },
+      {
+        "value": "CUSTOM:StrippedWhitewoodWood"
+      },
+      {
+        "value": "CUSTOM:WhitewoodWood"
+      },
+      {
+        "value": "CUSTOM:DreadLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DreadPlanks"
+      },
+      {
+        "value": "CUSTOM:TropicsPlanks"
+      },
+      {
+        "value": "CUSTOM:CedarPlanks"
+      },
+      {
+        "value": "CUSTOM:FrostWoodPlanks"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#1"
+      },
+      {
+        "value": "Blocks.PLANKS#2"
+      },
+      {
+        "value": "Blocks.PLANKS#3"
+      },
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": "Blocks.PLANKS#5"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

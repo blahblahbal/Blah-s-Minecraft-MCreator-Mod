@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "blahmod:blocks/citrineblock",
+    "particle": "blahmod:blocks/citrineblock"
+  }
+}

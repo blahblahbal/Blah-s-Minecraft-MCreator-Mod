@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 4,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "blahmod:uranium_ore"
+  },
+  "result": {
+    "item": "blahmod:uranium_ingot"
+  }
+}

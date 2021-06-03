@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:diamond_door"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 2
+  }
+}

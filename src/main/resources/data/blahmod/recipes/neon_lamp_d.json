@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:neon_lamp"
+    }
+  ],
+  "result": {
+    "item": "blahmod:neon_crystal",
+    "count": 9
+  }
+}

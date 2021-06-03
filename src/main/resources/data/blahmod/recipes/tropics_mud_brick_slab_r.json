@@ -1,0 +1,22 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:tropics_mud_bricks"
+    },
+    "1": {
+      "item": "blahmod:tropics_mud_bricks"
+    },
+    "2": {
+      "item": "blahmod:tropics_mud_bricks"
+    }
+  },
+  "result": {
+    "item": "blahmod:tropics_mud_brick_slab",
+    "count": 6
+  }
+}

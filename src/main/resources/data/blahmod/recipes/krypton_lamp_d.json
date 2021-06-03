@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:krypton_lamp"
+    }
+  ],
+  "result": {
+    "item": "blahmod:krypton_crystal",
+    "count": 9
+  }
+}

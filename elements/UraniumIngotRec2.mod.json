@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 4.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:UraniumOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:UraniumIngot"
+    },
+    "name": "uranium_ingot_rec_2",
+    "namespace": "mod"
+  }
+}

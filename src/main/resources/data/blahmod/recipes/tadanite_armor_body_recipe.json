@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "item": "blahmod:tadanite_diamond"
+  },
+  "result": {
+    "item": "blahmod:tadanite_armor_chestplate"
+  }
+}

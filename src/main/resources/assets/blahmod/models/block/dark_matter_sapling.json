@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blahmod:blocks/dark_matter_sapling",
+    "particle": "blahmod:blocks/dark_matter_sapling"
+  }
+}

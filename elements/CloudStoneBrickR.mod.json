@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TropicsStone"
+      },
+      {
+        "value": "CUSTOM:TropicsStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TropicsStone"
+      },
+      {
+        "value": "CUSTOM:TropicsStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CloudStoneBrick"
+    },
+    "name": "cloud_stone_brick_r",
+    "namespace": "mod"
+  }
+}

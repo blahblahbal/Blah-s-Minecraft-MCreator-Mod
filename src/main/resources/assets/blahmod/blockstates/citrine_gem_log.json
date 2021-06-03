@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "blahmod:block/citrine_gem_log"
+    },
+    "facing=north": {
+      "model": "blahmod:block/citrine_gem_log"
+    },
+    "facing=east": {
+      "model": "blahmod:block/citrine_gem_log",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "blahmod:block/citrine_gem_log",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "blahmod:block/citrine_gem_log",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "blahmod:block/citrine_gem_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

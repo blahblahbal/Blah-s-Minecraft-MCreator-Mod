@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/cobbedstone",
+    "up": "blahmod:blocks/cobbedstone",
+    "north": "blahmod:blocks/cobbedstone",
+    "east": "blahmod:blocks/cobbedstone",
+    "south": "blahmod:blocks/cobbedstone",
+    "west": "blahmod:blocks/cobbedstone",
+    "particle": "blahmod:blocks/cobbedstone"
+  }
+}

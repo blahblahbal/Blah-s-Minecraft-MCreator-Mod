@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "blahmod:blocks/borderlessglass",
+    "pane": "blahmod:blocks/borderlessglass"
+  }
+}

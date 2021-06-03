@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "blahmod:block/ethereal_double_tall_grass"
+    },
+    "half=lower": {
+      "model": "blahmod:block/ethereal_double_tall_grass_bottom"
+    }
+  }
+}

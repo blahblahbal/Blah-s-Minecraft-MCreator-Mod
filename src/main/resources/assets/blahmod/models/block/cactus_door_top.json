@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "blahmod:blocks/cactus_door_bottom",
+    "top": "blahmod:blocks/cactus_door_top"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:tropics_planks"
+    },
+    "1": {
+      "item": "blahmod:tropics_planks"
+    },
+    "2": {
+      "item": "blahmod:tropics_planks"
+    },
+    "3": {
+      "item": "blahmod:tropics_planks"
+    },
+    "5": {
+      "item": "blahmod:tropics_planks"
+    },
+    "6": {
+      "item": "blahmod:tropics_planks"
+    },
+    "7": {
+      "item": "blahmod:tropics_planks"
+    },
+    "8": {
+      "item": "blahmod:tropics_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NetherfrostBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NetherfrostBrick"
+      },
+      {
+        "value": "CUSTOM:NetherfrostBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NetherfrostBrick"
+      },
+      {
+        "value": "CUSTOM:NetherfrostBrick"
+      },
+      {
+        "value": "CUSTOM:NetherfrostBrick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:NetherfrostBrickStairs"
+    },
+    "name": "netherfrost_brick_stairs_r_1",
+    "namespace": "mod"
+  }
+}

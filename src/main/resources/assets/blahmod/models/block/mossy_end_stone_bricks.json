@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/mossyendstonebricks",
+    "up": "blahmod:blocks/mossyendstonebricks",
+    "north": "blahmod:blocks/mossyendstonebricks",
+    "east": "blahmod:blocks/mossyendstonebricks",
+    "south": "blahmod:blocks/mossyendstonebricks",
+    "west": "blahmod:blocks/mossyendstonebricks",
+    "particle": "blahmod:blocks/mossyendstonebricks"
+  }
+}

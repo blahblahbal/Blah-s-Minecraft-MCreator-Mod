@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/rubyore",
+    "up": "blahmod:blocks/rubyore",
+    "north": "blahmod:blocks/rubyore",
+    "east": "blahmod:blocks/rubyore",
+    "south": "blahmod:blocks/rubyore",
+    "west": "blahmod:blocks/rubyore",
+    "particle": "blahmod:blocks/rubyore"
+  }
+}

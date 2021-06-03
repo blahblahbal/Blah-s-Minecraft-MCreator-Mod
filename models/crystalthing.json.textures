@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "crystal": "argoncrystal"
+      },
+      "name": "default"
+    },
+    "krypton": {
+      "map": {
+        "crystal": "kryptoncrystal"
+      },
+      "name": "krypton"
+    },
+    "neon": {
+      "map": {
+        "crystal": "neoncrystal"
+      },
+      "name": "neon"
+    },
+    "xenon": {
+      "map": {
+        "crystal": "xenoncrystal"
+      },
+      "name": "xenon"
+    }
+  }
+}

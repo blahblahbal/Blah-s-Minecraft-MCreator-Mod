@@ -1,0 +1,22 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:petrified_wood"
+    },
+    "1": {
+      "item": "blahmod:petrified_wood"
+    },
+    "2": {
+      "item": "blahmod:petrified_wood"
+    }
+  },
+  "result": {
+    "item": "blahmod:petrified_planks_slab",
+    "count": 6
+  }
+}

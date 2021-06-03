@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/whitewood_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/whitewood_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/whitewood_slab_full"
+    }
+  }
+}

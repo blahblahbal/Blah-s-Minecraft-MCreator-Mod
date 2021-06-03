@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:ruby"
+    },
+    "1": {
+      "item": "blahmod:ruby"
+    },
+    "2": {
+      "item": "blahmod:ruby"
+    },
+    "3": {
+      "item": "blahmod:ruby"
+    },
+    "4": {
+      "item": "blahmod:ruby"
+    },
+    "5": {
+      "item": "blahmod:ruby"
+    },
+    "6": {
+      "item": "blahmod:ruby"
+    },
+    "7": {
+      "item": "blahmod:ruby"
+    },
+    "8": {
+      "item": "blahmod:ruby"
+    }
+  },
+  "result": {
+    "item": "blahmod:ruby_block",
+    "count": 1
+  }
+}

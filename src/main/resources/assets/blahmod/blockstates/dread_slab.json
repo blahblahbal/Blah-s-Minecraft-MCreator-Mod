@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/dread_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/dread_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/dread_slab_full"
+    }
+  }
+}

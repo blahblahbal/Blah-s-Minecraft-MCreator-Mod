@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/blacksandstone_bottom",
+    "up": "blahmod:blocks/blacksandstone_top",
+    "north": "blahmod:blocks/blacksandstone",
+    "east": "blahmod:blocks/blacksandstone",
+    "south": "blahmod:blocks/blacksandstone",
+    "west": "blahmod:blocks/blacksandstone",
+    "particle": "blahmod:blocks/blacksandstone_bottom"
+  }
+}

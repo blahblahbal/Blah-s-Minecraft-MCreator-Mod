@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:zircon_stairs"
+    },
+    "1": {
+      "item": "blahmod:zircon_stairs"
+    },
+    "2": {
+      "item": "blahmod:zircon_stairs"
+    },
+    "3": {
+      "item": "blahmod:zircon_stairs"
+    }
+  },
+  "result": {
+    "item": "blahmod:zircon_block",
+    "count": 6
+  }
+}

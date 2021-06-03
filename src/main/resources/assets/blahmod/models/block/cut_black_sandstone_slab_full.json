@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "blahmod:blocks/blacksandstone_top",
+    "top": "blahmod:blocks/blacksandstone_top",
+    "side": "blahmod:blocks/blacksandstone_smooth"
+  }
+}

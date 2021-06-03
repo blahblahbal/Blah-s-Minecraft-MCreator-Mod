@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/dreadrockbricks",
+    "up": "blahmod:blocks/dreadrockbricks",
+    "north": "blahmod:blocks/dreadrockbricks",
+    "east": "blahmod:blocks/dreadrockbricks",
+    "south": "blahmod:blocks/dreadrockbricks",
+    "west": "blahmod:blocks/dreadrockbricks",
+    "particle": "blahmod:blocks/dreadrockbricks"
+  }
+}

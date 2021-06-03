@@ -1,0 +1,39 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:catalytic_inverter"
+    },
+    "1": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "2": {
+      "item": "blahmod:catalytic_inverter"
+    },
+    "3": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "5": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "6": {
+      "item": "blahmod:zircon"
+    },
+    "7": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "8": {
+      "item": "blahmod:zircon"
+    }
+  },
+  "result": {
+    "item": "blahmod:lumite_construct",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:bonesandstone"
+    },
+    "1": {
+      "item": "blahmod:bonesandstone"
+    },
+    "2": {
+      "item": "blahmod:bonesandstone"
+    },
+    "3": {
+      "item": "blahmod:bonesandstone"
+    }
+  },
+  "result": {
+    "item": "blahmod:cut_bonesandstone",
+    "count": 4
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothBlackSandstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothBlackSandstone"
+      },
+      {
+        "value": "CUSTOM:SmoothBlackSandstone"
+      },
+      {
+        "value": "CUSTOM:SmoothBlackSandstone"
+      },
+      {
+        "value": "CUSTOM:SmoothBlackSandstone"
+      },
+      {
+        "value": "CUSTOM:SmoothBlackSandstone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CutBlackSandstoneStairs"
+    },
+    "name": "cut_bssr_2",
+    "namespace": "mod"
+  }
+}

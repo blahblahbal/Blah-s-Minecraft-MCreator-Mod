@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/lumiteblock",
+    "particle": "blahmod:blocks/lumiteblock",
+    "side": "blahmod:blocks/lumiteblock",
+    "top": "blahmod:blocks/lumiteblock",
+    "bottom": "blahmod:blocks/lumiteblock"
+  }
+}

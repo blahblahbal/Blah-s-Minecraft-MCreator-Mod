@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:dread_fence",
+    "blahmod:tropics_fence",
+    "blahmod:cedar_fence",
+    "blahmod:frost_wood_fence",
+    "blahmod:dark_matter_fence",
+    "blahmod:cactus_fence",
+    "blahmod:whitewood_fence",
+    "blahmod:ethereal_fence"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:dread_log"
+    },
+    {
+      "item": "blahmod:dread_log"
+    }
+  ],
+  "result": {
+    "item": "blahmod:dread_sapling",
+    "count": 2
+  }
+}

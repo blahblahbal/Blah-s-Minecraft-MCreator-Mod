@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "blahmod:block/black_sand"
+    },
+    {
+      "model": "blahmod:block/black_sand",
+      "y" : 90
+    },
+    {
+      "model": "blahmod:block/black_sand",
+      "y" : 180
+    },
+    {
+      "model": "blahmod:block/black_sand",
+      "y" : 270
+    }
+    ]
+  }
+}

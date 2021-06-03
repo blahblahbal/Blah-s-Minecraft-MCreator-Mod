@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "1": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "2": {
+      "item": "minecraft:mossy_cobblestone"
+    }
+  },
+  "result": {
+    "item": "blahmod:moss_stone_side_slab",
+    "count": 6
+  }
+}

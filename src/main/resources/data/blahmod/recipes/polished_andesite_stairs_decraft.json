@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_andesite_stairs"
+    },
+    "1": {
+      "item": "minecraft:polished_andesite_stairs"
+    },
+    "2": {
+      "item": "minecraft:polished_andesite_stairs"
+    },
+    "3": {
+      "item": "minecraft:polished_andesite_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:polished_andesite",
+    "count": 6
+  }
+}

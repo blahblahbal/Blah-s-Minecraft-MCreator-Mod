@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:XenonCrystalOre"
+      },
+      {
+        "value": "CUSTOM:ArgonCrystalOre"
+      },
+      {
+        "value": "CUSTOM:KryptonCrystalOre"
+      },
+      {
+        "value": "CUSTOM:NeonCrystalOre"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/crystal",
+    "namespace": "forge"
+  }
+}

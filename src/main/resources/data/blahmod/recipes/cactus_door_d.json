@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cactus_door"
+    }
+  },
+  "result": {
+    "item": "blahmod:cactus_planks",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_log"
+    },
+    {
+      "item": "blahmod:sulphur"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_log",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/ethereal_membrane",
+    "up": "blahmod:blocks/ethereal_membrane",
+    "north": "blahmod:blocks/ethereal_membrane",
+    "east": "blahmod:blocks/ethereal_membrane",
+    "south": "blahmod:blocks/ethereal_membrane",
+    "west": "blahmod:blocks/ethereal_membrane",
+    "particle": "blahmod:blocks/ethereal_membrane"
+  }
+}

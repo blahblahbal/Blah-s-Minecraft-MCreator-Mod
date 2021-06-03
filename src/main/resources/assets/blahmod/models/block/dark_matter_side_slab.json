@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/dark_matter_planks",
+    "particle": "blahmod:blocks/dark_matter_planks",
+    "side": "blahmod:blocks/dark_matter_planks",
+    "top": "blahmod:blocks/dark_matter_planks",
+    "bottom": "blahmod:blocks/dark_matter_planks"
+  }
+}

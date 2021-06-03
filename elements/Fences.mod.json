@@ -1,0 +1,38 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:DreadFence"
+      },
+      {
+        "value": "CUSTOM:TropicsFence"
+      },
+      {
+        "value": "CUSTOM:CedarFence"
+      },
+      {
+        "value": "CUSTOM:FrostWoodFence"
+      },
+      {
+        "value": "CUSTOM:DarkMatterFence"
+      },
+      {
+        "value": "CUSTOM:CactusFence"
+      },
+      {
+        "value": "CUSTOM:WhitewoodFence"
+      },
+      {
+        "value": "CUSTOM:EtherealFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "fences/wooden",
+    "namespace": "forge"
+  }
+}

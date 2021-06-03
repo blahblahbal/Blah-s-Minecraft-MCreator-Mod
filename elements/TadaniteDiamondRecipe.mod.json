@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TadaniteCrystal"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:TadaniteCrystal"
+      },
+      {
+        "value": "CUSTOM:ObsidifiedBlazeRod"
+      },
+      {
+        "value": "CUSTOM:TadaniteBlock"
+      },
+      {
+        "value": "CUSTOM:ObsidifiedBlazeRod"
+      },
+      {
+        "value": "CUSTOM:TadaniteCrystal"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:TadaniteCrystal"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TadaniteIngot"
+    },
+    "name": "tadanite_diamond_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "blahmod:block/uranium_ore"
+    },
+    "facing=north": {
+      "model": "blahmod:block/uranium_ore"
+    },
+    "facing=east": {
+      "model": "blahmod:block/uranium_ore",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "blahmod:block/uranium_ore",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "blahmod:block/uranium_ore",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "blahmod:block/uranium_ore",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

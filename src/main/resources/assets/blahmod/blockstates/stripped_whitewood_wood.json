@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "blahmod:block/stripped_whitewood_wood"
+    },
+    "facing=north": {
+      "model": "blahmod:block/stripped_whitewood_wood"
+    },
+    "facing=east": {
+      "model": "blahmod:block/stripped_whitewood_wood",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "blahmod:block/stripped_whitewood_wood",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "blahmod:block/stripped_whitewood_wood",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "blahmod:block/stripped_whitewood_wood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

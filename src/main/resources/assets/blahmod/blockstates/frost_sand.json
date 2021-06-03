@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "blahmod:block/frost_sand"
+    },
+    {
+      "model": "blahmod:block/frost_sand",
+      "y" : 90
+    },
+    {
+      "model": "blahmod:block/frost_sand",
+      "y" : 180
+    },
+    {
+      "model": "blahmod:block/frost_sand",
+      "y" : 270
+    }
+    ]
+  }
+}

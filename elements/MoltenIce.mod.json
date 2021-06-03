@@ -1,0 +1,36 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "MoltenIce",
+    "textureStill": "ice_still",
+    "textureFlowing": "iceflowing",
+    "luminosity": 15,
+    "density": 500,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTabBlahItems"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:NetherCore"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:NetherCoreBiome"
+      },
+      {
+        "value": "CUSTOM:NetherCoreDesert"
+      },
+      {
+        "value": "CUSTOM:NetherCoreForest"
+      }
+    ],
+    "onEntityCollides": {
+      "name": "SlowInMoltenIce"
+    }
+  }
+}

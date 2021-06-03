@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "blahmod:gold_ore_sky"
+  },
+  "result": {
+    "item": "minecraft:gold_ingot"
+  }
+}

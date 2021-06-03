@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/obsidianbrick",
+    "particle": "blahmod:blocks/obsidianbrick",
+    "side": "blahmod:blocks/obsidianbrick",
+    "top": "blahmod:blocks/obsidianbrick",
+    "bottom": "blahmod:blocks/obsidianbrick"
+  }
+}

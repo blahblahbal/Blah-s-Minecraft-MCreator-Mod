@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "blahmod:emerald_gem_log"
+  },
+  "result": {
+    "item": "blahmod:emerald_shard"
+  }
+}

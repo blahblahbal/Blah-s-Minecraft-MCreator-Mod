@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blahmod:blocks/zirconblock",
+    "top": "blahmod:blocks/zirconblock",
+    "side": "blahmod:blocks/zirconblock"
+  }
+}

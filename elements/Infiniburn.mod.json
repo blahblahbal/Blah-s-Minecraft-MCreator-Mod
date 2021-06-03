@@ -1,0 +1,47 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Scoria"
+      },
+      {
+        "value": "CUSTOM:CharredScoria"
+      },
+      {
+        "value": "CUSTOM:PolishedScoria"
+      },
+      {
+        "value": "CUSTOM:PolishedCharredScoria"
+      },
+      {
+        "value": "CUSTOM:LightlyCharredScoria"
+      },
+      {
+        "value": "CUSTOM:PolishedLightlyCharredScoria"
+      },
+      {
+        "value": "CUSTOM:BlazeBrick"
+      },
+      {
+        "value": "CUSTOM:SunstoneOre"
+      },
+      {
+        "value": "CUSTOM:HardenedLava"
+      },
+      {
+        "value": "CUSTOM:SmoothNetherrack"
+      },
+      {
+        "value": "CUSTOM:PolishedNetherrack"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "infiniburn_overworld",
+    "namespace": "minecraft"
+  }
+}

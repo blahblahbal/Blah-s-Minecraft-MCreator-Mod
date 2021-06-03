@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/polishedscoria",
+    "particle": "blahmod:blocks/polishedscoria",
+    "side": "blahmod:blocks/polishedscoria",
+    "top": "blahmod:blocks/polishedscoria",
+    "bottom": "blahmod:blocks/polishedscoria"
+  }
+}

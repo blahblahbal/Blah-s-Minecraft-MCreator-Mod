@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/petrifiedwood",
+    "particle": "blahmod:blocks/petrifiedwood",
+    "side": "blahmod:blocks/petrifiedwood",
+    "top": "blahmod:blocks/petrifiedwood",
+    "bottom": "blahmod:blocks/petrifiedwood"
+  }
+}

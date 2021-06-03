@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_diorite_stairs"
+    },
+    "1": {
+      "item": "minecraft:polished_diorite_stairs"
+    },
+    "2": {
+      "item": "minecraft:polished_diorite_stairs"
+    },
+    "3": {
+      "item": "minecraft:polished_diorite_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:polished_diorite",
+    "count": 6
+  }
+}

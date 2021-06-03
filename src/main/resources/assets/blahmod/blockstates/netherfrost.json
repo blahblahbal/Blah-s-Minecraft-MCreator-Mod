@@ -1,0 +1,78 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "blahmod:block/netherfrost"
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "x": 90
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "x": 180
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "x": 270
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 90
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 180
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 270
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "blahmod:block/netherfrost",
+        "y": 270,
+        "x": 270
+      }
+    ]
+  }
+}

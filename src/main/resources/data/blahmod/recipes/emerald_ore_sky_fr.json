@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "blahmod:emerald_ore_sky"
+  },
+  "result": {
+    "item": "minecraft:emerald"
+  }
+}

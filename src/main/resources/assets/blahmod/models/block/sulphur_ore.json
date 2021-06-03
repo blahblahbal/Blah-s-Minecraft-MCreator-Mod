@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/sulphur_ore",
+    "up": "blahmod:blocks/sulphur_ore",
+    "north": "blahmod:blocks/sulphur_ore",
+    "east": "blahmod:blocks/sulphur_ore",
+    "south": "blahmod:blocks/sulphur_ore",
+    "west": "blahmod:blocks/sulphur_ore",
+    "particle": "blahmod:blocks/sulphur_ore"
+  }
+}

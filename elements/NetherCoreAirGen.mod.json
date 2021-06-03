@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "structure",
+  "definition": {
+    "structure": "nether_core_grove_air_gen",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 600000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:NetherCore"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Netherfrost"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:NetherCoreGrove"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

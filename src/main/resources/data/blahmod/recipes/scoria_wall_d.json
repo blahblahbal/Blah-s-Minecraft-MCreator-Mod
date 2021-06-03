@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:scoria_wall"
+    }
+  ],
+  "result": {
+    "item": "blahmod:scoria",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/topaz_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/topaz_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/topaz_slab_full"
+    }
+  }
+}

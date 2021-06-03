@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "blahmod:blocks/ethereal_planks",
+    "particle": "blahmod:blocks/ethereal_planks"
+  }
+}

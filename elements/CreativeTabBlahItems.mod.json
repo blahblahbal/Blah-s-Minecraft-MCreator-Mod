@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Blah Items",
+    "icon": {
+      "value": "CUSTOM:Limestone"
+    },
+    "showSearch": true
+  }
+}

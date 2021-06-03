@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:tadanite_crystal",
+    "blahmod:sulphur",
+    "blahmod:limestone",
+    "blahmod:amethyst",
+    "blahmod:citrine",
+    "blahmod:topaz",
+    "blahmod:sapphire",
+    "blahmod:ruby",
+    "blahmod:sunstone"
+  ]
+}

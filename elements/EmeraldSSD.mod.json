@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EmeraldSideSlab"
+      },
+      {
+        "value": "CUSTOM:EmeraldSideSlab"
+      },
+      {
+        "value": "CUSTOM:EmeraldSideSlab"
+      },
+      {
+        "value": "CUSTOM:EmeraldSideSlab"
+      },
+      {
+        "value": "CUSTOM:EmeraldSideSlab"
+      },
+      {
+        "value": "CUSTOM:EmeraldSideSlab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "name": "emerald_ssd",
+    "namespace": "mod"
+  }
+}

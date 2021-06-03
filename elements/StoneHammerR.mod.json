@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:cobblestone"
+      },
+      {
+        "value": "TAG:cobblestone"
+      },
+      {
+        "value": "TAG:cobblestone"
+      },
+      {
+        "value": "TAG:cobblestone"
+      },
+      {
+        "value": "Items.STONE_PICKAXE"
+      },
+      {
+        "value": "TAG:cobblestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StoneHammer"
+    },
+    "name": "stone_hammer_r",
+    "namespace": "mod"
+  }
+}

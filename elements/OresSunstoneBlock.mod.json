@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SunstoneOre"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/sunstone",
+    "namespace": "forge"
+  }
+}

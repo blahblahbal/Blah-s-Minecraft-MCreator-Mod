@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LightlyCharredScoriaStairs"
+      },
+      {
+        "value": "CUSTOM:LightlyCharredScoriaStairs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LightlyCharredScoriaStairs"
+      },
+      {
+        "value": "CUSTOM:LightlyCharredScoriaStairs"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LightlyCharredScoria"
+    },
+    "name": "lc_scoria_stairs_d",
+    "namespace": "mod"
+  }
+}

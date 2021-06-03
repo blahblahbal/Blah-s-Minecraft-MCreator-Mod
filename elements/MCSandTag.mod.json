@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:DreadSand"
+      },
+      {
+        "value": "CUSTOM:BlackSand"
+      },
+      {
+        "value": "CUSTOM:FrostSand"
+      },
+      {
+        "value": "CUSTOM:Bonesand"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "sand",
+    "namespace": "minecraft"
+  }
+}

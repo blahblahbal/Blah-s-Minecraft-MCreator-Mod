@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/compressedobsidian",
+    "up": "blahmod:blocks/compressedobsidian",
+    "north": "blahmod:blocks/compressedobsidian",
+    "east": "blahmod:blocks/compressedobsidian",
+    "south": "blahmod:blocks/compressedobsidian",
+    "west": "blahmod:blocks/compressedobsidian",
+    "particle": "blahmod:blocks/compressedobsidian"
+  }
+}

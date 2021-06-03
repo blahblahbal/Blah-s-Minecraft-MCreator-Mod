@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/ruby_block",
+    "up": "blahmod:blocks/ruby_block",
+    "north": "blahmod:blocks/ruby_block",
+    "east": "blahmod:blocks/ruby_block",
+    "south": "blahmod:blocks/ruby_block",
+    "west": "blahmod:blocks/ruby_block",
+    "particle": "blahmod:blocks/ruby_block"
+  }
+}

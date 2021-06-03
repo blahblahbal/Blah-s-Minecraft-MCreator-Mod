@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "block/crimson_planks",
+    "particle": "block/crimson_planks",
+    "side": "block/crimson_planks",
+    "top": "block/crimson_planks",
+    "bottom": "block/crimson_planks"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:sapphire"
+    },
+    "2": {
+      "item": "blahmod:sapphire"
+    },
+    "3": {
+      "item": "blahmod:sapphire"
+    },
+    "4": {
+      "item": "blahmod:sapphire"
+    },
+    "5": {
+      "item": "blahmod:sapphire"
+    },
+    "6": {
+      "item": "blahmod:sapphire"
+    },
+    "7": {
+      "item": "blahmod:sapphire"
+    },
+    "8": {
+      "item": "blahmod:sapphire"
+    }
+  },
+  "result": {
+    "item": "blahmod:sapphire_armor_chestplate",
+    "count": 1
+  }
+}

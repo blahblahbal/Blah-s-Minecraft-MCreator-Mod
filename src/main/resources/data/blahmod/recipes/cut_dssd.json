@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cut_dread_sandstone_stairs"
+    },
+    "1": {
+      "item": "blahmod:cut_dread_sandstone_stairs"
+    },
+    "2": {
+      "item": "blahmod:cut_dread_sandstone_stairs"
+    },
+    "3": {
+      "item": "blahmod:cut_dread_sandstone_stairs"
+    }
+  },
+  "result": {
+    "item": "blahmod:smooth_dread_sandstone",
+    "count": 6
+  }
+}

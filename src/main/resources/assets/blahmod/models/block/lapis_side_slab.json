@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "block/lapis_block",
+    "particle": "block/lapis_block",
+    "side": "block/lapis_block",
+    "top": "block/lapis_block",
+    "bottom": "block/lapis_block"
+  }
+}

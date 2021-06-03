@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/dark_matter_stone",
+    "up": "blahmod:blocks/dark_matter_grass_block_top",
+    "north": "blahmod:blocks/dark_matter_grass_block_side",
+    "east": "blahmod:blocks/dark_matter_grass_block_side",
+    "south": "blahmod:blocks/dark_matter_grass_block_side",
+    "west": "blahmod:blocks/dark_matter_grass_block_side",
+    "particle": "blahmod:blocks/dark_matter_stone"
+  }
+}

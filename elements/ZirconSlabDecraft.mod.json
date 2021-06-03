@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ZirconSlab"
+      },
+      {
+        "value": "CUSTOM:ZirconSlab"
+      },
+      {
+        "value": "CUSTOM:ZirconSlab"
+      },
+      {
+        "value": "CUSTOM:ZirconSlab"
+      },
+      {
+        "value": "CUSTOM:ZirconSlab"
+      },
+      {
+        "value": "CUSTOM:ZirconSlab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ZirconBlock"
+    },
+    "name": "zircon_slab_decraft",
+    "namespace": "mod"
+  }
+}

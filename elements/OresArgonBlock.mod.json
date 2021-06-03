@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ArgonCrystalOre"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/argon",
+    "namespace": "forge"
+  }
+}

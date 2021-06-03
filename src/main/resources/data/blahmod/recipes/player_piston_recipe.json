@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:dark_matter_slimeball"
+    },
+    "1": {
+      "item": "blahmod:dark_matter_slimeball"
+    },
+    "2": {
+      "item": "blahmod:dark_matter_slimeball"
+    },
+    "3": {
+      "item": "blahmod:dark_matter_slimeball"
+    },
+    "4": {
+      "item": "minecraft:piston"
+    },
+    "5": {
+      "item": "blahmod:dark_matter_slimeball"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "minecraft:sticky_piston"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "blahmod:player_piston",
+    "count": 2
+  }
+}

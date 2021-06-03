@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_planks"
+    },
+    "1": {
+      "item": "minecraft:crimson_planks"
+    },
+    "2": {
+      "item": "minecraft:crimson_planks"
+    }
+  },
+  "result": {
+    "item": "blahmod:crimson_side_slab",
+    "count": 6
+  }
+}

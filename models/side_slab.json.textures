@@ -1,0 +1,428 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "blazebrick",
+        "top": "blazebrick",
+        "bottom": "blazebrick"
+      },
+      "name": "default"
+    },
+    "frost": {
+      "map": {
+        "side": "frostplanks",
+        "top": "frostplanks",
+        "bottom": "frostplanks"
+      },
+      "name": "frost"
+    },
+    "dread": {
+      "map": {
+        "side": "dead_planks",
+        "top": "dead_planks",
+        "bottom": "dead_planks"
+      },
+      "name": "dread"
+    },
+    "amethyst": {
+      "map": {
+        "side": "amethyst_block_side",
+        "top": "amethyst_block_top",
+        "bottom": "amethyst_block_top"
+      },
+      "name": "amethyst"
+    },
+    "cedar": {
+      "map": {
+        "side": "cedarplanks",
+        "top": "cedarplanks",
+        "bottom": "cedarplanks"
+      },
+      "name": "cedar"
+    },
+    "tropics": {
+      "map": {
+        "side": "tropicsplanks",
+        "top": "tropicsplanks",
+        "bottom": "tropicsplanks"
+      },
+      "name": "tropics"
+    },
+    "zircon": {
+      "map": {
+        "side": "zirconblock",
+        "top": "zirconblock",
+        "bottom": "zirconblock"
+      },
+      "name": "zircon"
+    },
+    "ruby": {
+      "map": {
+        "side": "ruby_block",
+        "top": "ruby_block",
+        "bottom": "ruby_block"
+      },
+      "name": "ruby"
+    },
+    "diamond": {
+      "map": {
+        "side": "diamond_block",
+        "top": "diamond_block",
+        "bottom": "diamond_block"
+      },
+      "name": "diamond"
+    },
+    "emerald": {
+      "map": {
+        "side": "emerald_block",
+        "top": "emerald_block",
+        "bottom": "emerald_block"
+      },
+      "name": "emerald"
+    },
+    "blaze": {
+      "map": {
+        "side": "blazebrick",
+        "top": "blazebrick",
+        "bottom": "blazebrick"
+      },
+      "name": "blaze"
+    },
+    "citrine": {
+      "map": {
+        "side": "citrineblock",
+        "top": "citrineblock",
+        "bottom": "citrineblock"
+      },
+      "name": "citrine"
+    },
+    "topaz": {
+      "map": {
+        "side": "topazblock",
+        "top": "topazblock",
+        "bottom": "topazblock"
+      },
+      "name": "topaz"
+    },
+    "sapphire": {
+      "map": {
+        "side": "sapphireblock",
+        "top": "sapphireblock",
+        "bottom": "sapphireblock"
+      },
+      "name": "sapphire"
+    },
+    "cobblestone": {
+      "map": {
+        "side": "cobblestone",
+        "top": "cobblestone",
+        "bottom": "cobblestone"
+      },
+      "name": "cobblestone"
+    },
+    "mossstone": {
+      "map": {
+        "side": "mossy_cobblestone",
+        "top": "mossy_cobblestone",
+        "bottom": "mossy_cobblestone"
+      },
+      "name": "mossstone"
+    },
+    "acacia": {
+      "map": {
+        "side": "acacia_planks",
+        "top": "acacia_planks",
+        "bottom": "acacia_planks"
+      },
+      "name": "acacia"
+    },
+    "oak": {
+      "map": {
+        "side": "oak_planks",
+        "top": "oak_planks",
+        "bottom": "oak_planks"
+      },
+      "name": "oak"
+    },
+    "dark_oak": {
+      "map": {
+        "side": "dark_oak_planks",
+        "top": "dark_oak_planks",
+        "bottom": "dark_oak_planks"
+      },
+      "name": "dark_oak"
+    },
+    "jungle": {
+      "map": {
+        "side": "jungle_planks",
+        "top": "jungle_planks",
+        "bottom": "jungle_planks"
+      },
+      "name": "jungle"
+    },
+    "birch": {
+      "map": {
+        "side": "birch_planks",
+        "top": "birch_planks",
+        "bottom": "birch_planks"
+      },
+      "name": "birch"
+    },
+    "spruce": {
+      "map": {
+        "side": "spruce_planks",
+        "top": "spruce_planks",
+        "bottom": "spruce_planks"
+      },
+      "name": "spruce"
+    },
+    "iron": {
+      "map": {
+        "side": "iron_block",
+        "top": "iron_block",
+        "bottom": "iron_block"
+      },
+      "name": "iron"
+    },
+    "gold": {
+      "map": {
+        "side": "gold_block",
+        "top": "gold_block",
+        "bottom": "gold_block"
+      },
+      "name": "gold"
+    },
+    "sulphur": {
+      "map": {
+        "side": "sulphurblock",
+        "top": "sulphurblock",
+        "bottom": "sulphurblock"
+      },
+      "name": "sulphur"
+    },
+    "limestone": {
+      "map": {
+        "side": "limestoneblock",
+        "top": "limestoneblock",
+        "bottom": "limestoneblock"
+      },
+      "name": "limestone"
+    },
+    "lapis": {
+      "map": {
+        "side": "lapis_block",
+        "top": "lapis_block",
+        "bottom": "lapis_block"
+      },
+      "name": "lapis"
+    },
+    "obsidian": {
+      "map": {
+        "side": "obsidian",
+        "top": "obsidian",
+        "bottom": "obsidian"
+      },
+      "name": "obsidian"
+    },
+    "tadanite": {
+      "map": {
+        "side": "tadanite",
+        "top": "tadanite",
+        "bottom": "tadanite"
+      },
+      "name": "tadanite"
+    },
+    "dirt": {
+      "map": {
+        "side": "dirt",
+        "top": "dirt",
+        "bottom": "dirt"
+      },
+      "name": "dirt"
+    },
+    "petrified_wood": {
+      "map": {
+        "side": "petrifiedwood",
+        "top": "petrifiedwood",
+        "bottom": "petrifiedwood"
+      },
+      "name": "petrified_wood"
+    },
+    "netherbrick": {
+      "map": {
+        "side": "nether_bricks",
+        "top": "nether_bricks",
+        "bottom": "nether_bricks"
+      },
+      "name": "netherbrick"
+    },
+    "netherfrostbrick": {
+      "map": {
+        "side": "frostbrick",
+        "top": "frostbrick",
+        "bottom": "frostbrick"
+      },
+      "name": "netherfrostbrick"
+    },
+    "quartz": {
+      "map": {
+        "side": "quartz_block_side",
+        "top": "quartz_block_top",
+        "bottom": "quartz_block_bottom"
+      },
+      "name": "quartz"
+    },
+    "dreadrockbrick": {
+      "map": {
+        "side": "dreadrockbricks",
+        "top": "dreadrockbricks",
+        "bottom": "dreadrockbricks"
+      },
+      "name": "dreadrockbrick"
+    },
+    "magmarockbrick": {
+      "map": {
+        "side": "magmarockbricks",
+        "top": "magmarockbricks",
+        "bottom": "magmarockbricks"
+      },
+      "name": "magmarockbrick"
+    },
+    "cloudstonebrick": {
+      "map": {
+        "side": "tropicstonebrick",
+        "top": "tropicstonebrick",
+        "bottom": "tropicstonebrick"
+      },
+      "name": "cloudstonebrick"
+    },
+    "lumite": {
+      "map": {
+        "side": "lumiteblock",
+        "top": "lumiteblock",
+        "bottom": "lumiteblock"
+      },
+      "name": "lumite"
+    },
+    "cement": {
+      "map": {
+        "side": "cement",
+        "top": "cement",
+        "bottom": "cement"
+      },
+      "name": "cement"
+    },
+    "cactus": {
+      "map": {
+        "side": "cactus_planks",
+        "top": "cactus_planks",
+        "bottom": "cactus_planks"
+      },
+      "name": "cactus"
+    },
+    "obsidianbrick": {
+      "map": {
+        "side": "obsidianbrick",
+        "top": "obsidianbrick",
+        "bottom": "obsidianbrick"
+      },
+      "name": "obsidianbrick"
+    },
+    "darkmatter": {
+      "map": {
+        "side": "dark_matter_planks",
+        "top": "dark_matter_planks",
+        "bottom": "dark_matter_planks"
+      },
+      "name": "darkmatter"
+    },
+    "petrifiedplanks": {
+      "map": {
+        "side": "petrified_planks",
+        "top": "petrified_planks",
+        "bottom": "petrified_planks"
+      },
+      "name": "petrifiedplanks"
+    },
+    "whitewood": {
+      "map": {
+        "side": "whitewood_planks",
+        "top": "whitewood_planks",
+        "bottom": "whitewood_planks"
+      },
+      "name": "whitewood"
+    },
+    "crimson": {
+      "map": {
+        "side": "acacia_planks",
+        "top": "acacia_planks",
+        "bottom": "acacia_planks"
+      },
+      "name": "crimson"
+    },
+    "warped": {
+      "map": {
+        "side": "acacia_planks",
+        "top": "acacia_planks",
+        "bottom": "acacia_planks"
+      },
+      "name": "warped"
+    },
+    "scoria": {
+      "map": {
+        "side": "scoria",
+        "top": "scoria",
+        "bottom": "scoria"
+      },
+      "name": "scoria"
+    },
+    "polished_scoria": {
+      "map": {
+        "side": "polishedscoria",
+        "top": "polishedscoria",
+        "bottom": "polishedscoria"
+      },
+      "name": "polished_scoria"
+    },
+    "charred_scoria": {
+      "map": {
+        "side": "charredscoria",
+        "top": "charredscoria",
+        "bottom": "charredscoria"
+      },
+      "name": "charred_scoria"
+    },
+    "polished_charred_scoria": {
+      "map": {
+        "side": "polishedcharredscoria",
+        "top": "polishedcharredscoria",
+        "bottom": "polishedcharredscoria"
+      },
+      "name": "polished_charred_scoria"
+    },
+    "lightly_charred_scoria": {
+      "map": {
+        "side": "lightlycharredscoria",
+        "top": "lightlycharredscoria",
+        "bottom": "lightlycharredscoria"
+      },
+      "name": "lightly_charred_scoria"
+    },
+    "polished_lightly_charred_scoria": {
+      "map": {
+        "side": "polishedlightlycharredscoria",
+        "top": "polishedlightlycharredscoria",
+        "bottom": "polishedlightlycharredscoria"
+      },
+      "name": "polished_lightly_charred_scoria"
+    },
+    "ethereal": {
+      "map": {
+        "side": "ethereal_planks",
+        "top": "ethereal_planks",
+        "bottom": "ethereal_planks"
+      },
+      "name": "ethereal"
+    }
+  }
+}

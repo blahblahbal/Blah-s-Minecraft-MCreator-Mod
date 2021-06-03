@@ -1,0 +1,71 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TadaniteBlock"
+      },
+      {
+        "value": "CUSTOM:SulphurBlock"
+      },
+      {
+        "value": "CUSTOM:LumiteBlock"
+      },
+      {
+        "value": "CUSTOM:ZirconBlock"
+      },
+      {
+        "value": "CUSTOM:LimestoneBlock"
+      },
+      {
+        "value": "CUSTOM:BlazeBrick"
+      },
+      {
+        "value": "CUSTOM:CarrotBlock"
+      },
+      {
+        "value": "CUSTOM:MashedPotatoBlock"
+      },
+      {
+        "value": "CUSTOM:AmethystBlock"
+      },
+      {
+        "value": "CUSTOM:CitrineBlock"
+      },
+      {
+        "value": "CUSTOM:TopazBlock"
+      },
+      {
+        "value": "CUSTOM:SapphireBlock"
+      },
+      {
+        "value": "CUSTOM:RubyBlock"
+      },
+      {
+        "value": "CUSTOM:LeatherBlock"
+      },
+      {
+        "value": "CUSTOM:OsborgnenCoalBlock"
+      },
+      {
+        "value": "CUSTOM:XenonLamp"
+      },
+      {
+        "value": "CUSTOM:ArgonLamp"
+      },
+      {
+        "value": "CUSTOM:KryptonLamp"
+      },
+      {
+        "value": "CUSTOM:NeonLamp"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "storage_blocks",
+    "namespace": "forge"
+  }
+}

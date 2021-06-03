@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/frostplanks",
+    "particle": "blahmod:blocks/frostplanks",
+    "side": "blahmod:blocks/frostplanks",
+    "top": "blahmod:blocks/frostplanks",
+    "bottom": "blahmod:blocks/frostplanks"
+  }
+}

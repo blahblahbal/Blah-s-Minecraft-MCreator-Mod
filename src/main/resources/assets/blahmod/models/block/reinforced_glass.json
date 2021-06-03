@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/reinforcedglass",
+    "up": "blahmod:blocks/reinforcedglass",
+    "north": "blahmod:blocks/reinforcedglass",
+    "east": "blahmod:blocks/reinforcedglass",
+    "south": "blahmod:blocks/reinforcedglass",
+    "west": "blahmod:blocks/reinforcedglass",
+    "particle": "blahmod:blocks/reinforcedglass"
+  }
+}

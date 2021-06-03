@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blahmod:blocks/ethereal_tall_grass",
+    "particle": "blahmod:blocks/ethereal_tall_grass"
+  }
+}

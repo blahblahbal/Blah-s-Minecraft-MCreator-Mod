@@ -1,0 +1,22 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:limestone_block"
+    },
+    "1": {
+      "item": "blahmod:limestone_block"
+    },
+    "2": {
+      "item": "blahmod:limestone_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:limestone_slab",
+    "count": 6
+  }
+}

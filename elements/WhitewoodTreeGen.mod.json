@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "structure",
+  "definition": {
+    "structure": "whitewood_tree",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 5000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": -11,
+    "spawnZOffset": -11,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BlackSand"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Tropics"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

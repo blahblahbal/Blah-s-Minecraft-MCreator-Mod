@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:raw_iron_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:raw_iron",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:tropics_trapdoor"
+    }
+  ],
+  "result": {
+    "item": "blahmod:tropics_planks",
+    "count": 3
+  }
+}

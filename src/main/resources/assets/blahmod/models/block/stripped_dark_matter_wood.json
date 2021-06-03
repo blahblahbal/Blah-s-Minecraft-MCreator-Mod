@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/stripped_dark_matter_log",
+    "up": "blahmod:blocks/stripped_dark_matter_log",
+    "north": "blahmod:blocks/stripped_dark_matter_log",
+    "east": "blahmod:blocks/stripped_dark_matter_log",
+    "south": "blahmod:blocks/stripped_dark_matter_log",
+    "west": "blahmod:blocks/stripped_dark_matter_log",
+    "particle": "blahmod:blocks/stripped_dark_matter_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "blahmod:blocks/dark_matter_planks",
+    "particle": "blahmod:blocks/dark_matter_planks"
+  }
+}

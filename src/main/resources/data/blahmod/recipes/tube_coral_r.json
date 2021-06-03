@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:tube_coral_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:sus_tube_coral_block",
+    "count": 1
+  }
+}

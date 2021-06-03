@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/uranium_block_bottom",
+    "up": "blahmod:blocks/uranium_block_top",
+    "north": "blahmod:blocks/uranium_block_side",
+    "east": "blahmod:blocks/uranium_block_side",
+    "south": "blahmod:blocks/uranium_block_side",
+    "west": "blahmod:blocks/uranium_block_side",
+    "particle": "blahmod:blocks/uranium_block_bottom"
+  }
+}

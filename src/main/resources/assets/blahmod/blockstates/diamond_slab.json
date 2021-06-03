@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/diamond_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/diamond_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/diamond_slab_full"
+    }
+  }
+}

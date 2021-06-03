@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 3.0,
+    "cookingTime": 50,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:LumiteOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:LumiteIngot"
+    },
+    "name": "lumite_ore_blasting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "blahmod:block/salt"
+    },
+    "facing=north": {
+      "model": "blahmod:block/salt"
+    },
+    "facing=east": {
+      "model": "blahmod:block/salt",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "blahmod:block/salt",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "blahmod:block/salt",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "blahmod:block/salt",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

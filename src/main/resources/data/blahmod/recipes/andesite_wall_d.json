@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite_wall"
+    }
+  ],
+  "result": {
+    "item": "minecraft:andesite",
+    "count": 1
+  }
+}

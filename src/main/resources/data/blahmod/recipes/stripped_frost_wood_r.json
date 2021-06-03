@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:stripped_frost_log"
+    },
+    "1": {
+      "item": "blahmod:stripped_frost_log"
+    },
+    "2": {
+      "item": "blahmod:stripped_frost_log"
+    },
+    "3": {
+      "item": "blahmod:stripped_frost_log"
+    }
+  },
+  "result": {
+    "item": "blahmod:stripped_frost_wood",
+    "count": 3
+  }
+}

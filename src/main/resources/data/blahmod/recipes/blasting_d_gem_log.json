@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "blahmod:diamond_gem_log"
+  },
+  "result": {
+    "item": "blahmod:diamond_shard"
+  }
+}

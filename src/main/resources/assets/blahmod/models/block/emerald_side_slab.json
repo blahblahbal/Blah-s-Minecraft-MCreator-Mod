@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "block/emerald_block",
+    "particle": "block/emerald_block",
+    "side": "block/emerald_block",
+    "top": "block/emerald_block",
+    "bottom": "block/emerald_block"
+  }
+}

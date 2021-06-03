@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magma_block"
+    },
+    "1": {
+      "item": "minecraft:magma_block"
+    },
+    "2": {
+      "item": "minecraft:magma_block"
+    },
+    "3": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:magma_rock_bricks",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:whitewood_wood"
+    },
+    "1": {
+      "item": "blahmod:whitewood_wood"
+    },
+    "2": {
+      "item": "blahmod:whitewood_wood"
+    }
+  },
+  "result": {
+    "item": "blahmod:whitewood_log",
+    "count": 4
+  }
+}

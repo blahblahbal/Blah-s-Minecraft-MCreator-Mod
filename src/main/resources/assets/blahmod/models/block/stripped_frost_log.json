@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/strippedfrostlog_top",
+    "up": "blahmod:blocks/strippedfrostlog_top",
+    "north": "blahmod:blocks/strippedfrostlog_side",
+    "east": "blahmod:blocks/strippedfrostlog_side",
+    "south": "blahmod:blocks/strippedfrostlog_side",
+    "west": "blahmod:blocks/strippedfrostlog_side",
+    "particle": "blahmod:blocks/strippedfrostlog_top"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:scoria",
+    "blahmod:charred_scoria",
+    "blahmod:polished_scoria",
+    "blahmod:polished_charred_scoria",
+    "blahmod:lightly_charred_scoria",
+    "blahmod:polished_lightly_charred_scoria",
+    "blahmod:blaze_brick",
+    "blahmod:sunstone_ore",
+    "blahmod:hardened_lava",
+    "blahmod:smooth_netherrack",
+    "blahmod:polished_netherrack"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "1": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "2": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "3": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "4": {
+      "item": "blahmod:lumite_ingot"
+    },
+    "5": {
+      "item": "blahmod:lumite_ingot"
+    }
+  },
+  "result": {
+    "item": "blahmod:lumite_door",
+    "count": 3
+  }
+}

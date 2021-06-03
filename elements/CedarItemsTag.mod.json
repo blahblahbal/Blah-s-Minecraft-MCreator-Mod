@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CedarWood"
+      },
+      {
+        "value": "CUSTOM:CedarLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "cedar_log",
+    "namespace": "forge"
+  }
+}

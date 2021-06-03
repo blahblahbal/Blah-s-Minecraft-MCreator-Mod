@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:diamond_trapdoor"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 2
+  }
+}

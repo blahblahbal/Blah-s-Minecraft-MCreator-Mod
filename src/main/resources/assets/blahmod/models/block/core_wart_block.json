@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/core_wart_block",
+    "up": "blahmod:blocks/core_wart_block",
+    "north": "blahmod:blocks/core_wart_block",
+    "east": "blahmod:blocks/core_wart_block",
+    "south": "blahmod:blocks/core_wart_block",
+    "west": "blahmod:blocks/core_wart_block",
+    "particle": "blahmod:blocks/core_wart_block"
+  }
+}

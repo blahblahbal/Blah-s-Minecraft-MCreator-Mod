@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/polished_netherrack_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/polished_netherrack_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/polished_netherrack_slab_full"
+    }
+  }
+}

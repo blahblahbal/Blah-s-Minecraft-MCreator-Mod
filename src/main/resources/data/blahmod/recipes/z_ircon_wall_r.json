@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:zircon_block"
+    },
+    "1": {
+      "item": "blahmod:zircon_block"
+    },
+    "2": {
+      "item": "blahmod:zircon_block"
+    },
+    "3": {
+      "item": "blahmod:zircon_block"
+    },
+    "4": {
+      "item": "blahmod:zircon_block"
+    },
+    "5": {
+      "item": "blahmod:zircon_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:zircon_wall",
+    "count": 6
+  }
+}

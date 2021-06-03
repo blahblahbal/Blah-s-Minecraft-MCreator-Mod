@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/imperviousbrick",
+    "up": "blahmod:blocks/imperviousbrick",
+    "north": "blahmod:blocks/imperviousbrick",
+    "east": "blahmod:blocks/imperviousbrick",
+    "south": "blahmod:blocks/imperviousbrick",
+    "west": "blahmod:blocks/imperviousbrick",
+    "particle": "blahmod:blocks/imperviousbrick"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:smelting",
+  "experience": 6,
+  "cookingtime": 120,
+  "ingredient": {
+    "item": "blahmod:lumite_ore"
+  },
+  "result": {
+    "item": "blahmod:lumite_ingot"
+  }
+}

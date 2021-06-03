@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "block/dark_oak_planks",
+    "particle": "block/dark_oak_planks",
+    "side": "block/dark_oak_planks",
+    "top": "block/dark_oak_planks",
+    "bottom": "block/dark_oak_planks"
+  }
+}

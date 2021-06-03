@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diorite"
+    },
+    {
+      "tag": "cobblestone_types"
+    }
+  ],
+  "result": {
+    "item": "minecraft:andesite",
+    "count": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:purpur_stairs"
+    },
+    "1": {
+      "item": "minecraft:purpur_stairs"
+    },
+    "2": {
+      "item": "minecraft:purpur_stairs"
+    },
+    "3": {
+      "item": "minecraft:purpur_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:purpur_block",
+    "count": 6
+  }
+}

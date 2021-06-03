@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "blahmod:blocks/blacksand",
+    "top": "blahmod:blocks/grass_top_generic",
+    "side": "blahmod:blocks/blacksand",
+    "overlay": "blahmod:blocks/grass_side_generic",
+    "particle": "blahmod:blocks/blacksand"
+  }
+}

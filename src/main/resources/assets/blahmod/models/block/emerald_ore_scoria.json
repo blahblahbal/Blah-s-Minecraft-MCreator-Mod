@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blahmod:blocks/emerald_ore_scoria",
+    "particle": "blahmod:blocks/emerald_ore_scoria"
+  }
+}

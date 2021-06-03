@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/amethyst_block_top",
+    "up": "blahmod:blocks/amethyst_block_top",
+    "north": "blahmod:blocks/amethyst_block_side",
+    "east": "blahmod:blocks/amethyst_block_side",
+    "south": "blahmod:blocks/amethyst_block_side",
+    "west": "blahmod:blocks/amethyst_block_side",
+    "particle": "blahmod:blocks/amethyst_block_top"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bedrockpickaxe",
+    "customModelName": "Normal",
+    "name": "§eBedrock Pickaxe",
+    "specialInfo": [
+      "§cOmniharvest",
+      "Right-click Bedrock or Lumite Ore to mine it"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTabBlahItems"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 7,
+    "efficiency": 20.0,
+    "attackSpeed": 1.2,
+    "enchantability": 35,
+    "damageVsEntity": 6.0,
+    "usageCount": 5500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.BEDROCK"
+      },
+      {
+        "value": "CUSTOM:Bedrock2"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "BedrockBreak"
+    }
+  }
+}

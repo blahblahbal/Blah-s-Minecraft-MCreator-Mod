@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/polishedmagnetite",
+    "up": "blahmod:blocks/polishedmagnetite",
+    "north": "blahmod:blocks/polishedmagnetite",
+    "east": "blahmod:blocks/polishedmagnetite",
+    "south": "blahmod:blocks/polishedmagnetite",
+    "west": "blahmod:blocks/polishedmagnetite",
+    "particle": "blahmod:blocks/polishedmagnetite"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BonesandstoneStairs"
+      },
+      {
+        "value": "CUSTOM:BonesandstoneStairs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BonesandstoneStairs"
+      },
+      {
+        "value": "CUSTOM:BonesandstoneStairs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bonesandstone"
+    },
+    "name": "bone_ss_stairs_d",
+    "namespace": "mod"
+  }
+}

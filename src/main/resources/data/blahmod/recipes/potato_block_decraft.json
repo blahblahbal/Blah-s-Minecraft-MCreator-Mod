@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:mashed_potato_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:potato",
+    "count": 9
+  }
+}

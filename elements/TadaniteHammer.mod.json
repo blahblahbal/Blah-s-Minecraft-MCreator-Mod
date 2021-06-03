@@ -1,0 +1,36 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tadanite_hammer",
+    "customModelName": "Normal",
+    "name": "Tadanite Hammer",
+    "specialInfo": [
+      "§eEfficient"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTabBlahItems"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 7.0,
+    "attackSpeed": 0.4,
+    "enchantability": 20,
+    "damageVsEntity": 15.5,
+    "usageCount": 2400,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TadaniteCrystal"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "MiningHammerBlockDestroyed"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "blahmod:blocks/ruby_block",
+    "particle": "blahmod:blocks/ruby_block"
+  }
+}

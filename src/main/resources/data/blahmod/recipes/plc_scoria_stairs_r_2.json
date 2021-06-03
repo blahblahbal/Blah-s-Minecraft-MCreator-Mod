@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "blahmod:polished_lightly_charred_scoria"
+    },
+    "4": {
+      "item": "blahmod:polished_lightly_charred_scoria"
+    },
+    "5": {
+      "item": "blahmod:polished_lightly_charred_scoria"
+    },
+    "6": {
+      "item": "blahmod:polished_lightly_charred_scoria"
+    },
+    "7": {
+      "item": "blahmod:polished_lightly_charred_scoria"
+    },
+    "8": {
+      "item": "blahmod:polished_lightly_charred_scoria"
+    }
+  },
+  "result": {
+    "item": "blahmod:polished_lightly_charred_scoria_stairs",
+    "count": 4
+  }
+}

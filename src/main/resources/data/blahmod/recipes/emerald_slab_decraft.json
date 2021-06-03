@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:emerald_slab"
+    },
+    "1": {
+      "item": "blahmod:emerald_slab"
+    },
+    "2": {
+      "item": "blahmod:emerald_slab"
+    },
+    "3": {
+      "item": "blahmod:emerald_slab"
+    },
+    "4": {
+      "item": "blahmod:emerald_slab"
+    },
+    "5": {
+      "item": "blahmod:emerald_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald_block",
+    "count": 3
+  }
+}

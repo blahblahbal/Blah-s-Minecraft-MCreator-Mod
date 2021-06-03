@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:mega_berry"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sweet_berries",
+    "count": 9
+  }
+}

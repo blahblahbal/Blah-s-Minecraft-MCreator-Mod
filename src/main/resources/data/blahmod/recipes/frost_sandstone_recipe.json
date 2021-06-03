@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:frost_sand"
+    },
+    "1": {
+      "item": "blahmod:frost_sand"
+    },
+    "2": {
+      "item": "blahmod:frost_sand"
+    },
+    "3": {
+      "item": "blahmod:frost_sand"
+    }
+  },
+  "result": {
+    "item": "blahmod:frost_sandstone",
+    "count": 1
+  }
+}

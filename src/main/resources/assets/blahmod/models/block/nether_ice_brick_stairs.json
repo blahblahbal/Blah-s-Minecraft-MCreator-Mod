@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "blahmod:blocks/nethericebrick",
+    "top": "blahmod:blocks/nethericebrick",
+    "side": "blahmod:blocks/nethericebrick"
+  }
+}

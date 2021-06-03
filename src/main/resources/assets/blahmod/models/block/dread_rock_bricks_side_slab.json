@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/dreadrockbricks",
+    "particle": "blahmod:blocks/dreadrockbricks",
+    "side": "blahmod:blocks/dreadrockbricks",
+    "top": "blahmod:blocks/dreadrockbricks",
+    "bottom": "blahmod:blocks/dreadrockbricks"
+  }
+}

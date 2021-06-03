@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "cobblestone_types"
+    },
+    "1": {
+      "tag": "cobblestone_types"
+    },
+    "2": {
+      "tag": "cobblestone_types"
+    },
+    "3": {
+      "tag": "cobblestone_types"
+    },
+    "4": {
+      "item": "minecraft:bow"
+    },
+    "5": {
+      "tag": "cobblestone_types"
+    },
+    "6": {
+      "tag": "cobblestone_types"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "tag": "cobblestone_types"
+    }
+  },
+  "result": {
+    "item": "minecraft:dispenser",
+    "count": 1
+  }
+}

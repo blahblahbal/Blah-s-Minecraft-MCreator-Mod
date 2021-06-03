@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "blahmod:ruby",
+    "count": 9
+  }
+}

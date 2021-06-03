@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/limestoneblock",
+    "particle": "blahmod:blocks/limestoneblock",
+    "side": "blahmod:blocks/limestoneblock",
+    "top": "blahmod:blocks/limestoneblock",
+    "bottom": "blahmod:blocks/limestoneblock"
+  }
+}

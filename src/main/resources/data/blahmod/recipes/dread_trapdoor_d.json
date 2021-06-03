@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:dread_trapdoor"
+    }
+  },
+  "result": {
+    "item": "blahmod:dread_planks",
+    "count": 3
+  }
+}

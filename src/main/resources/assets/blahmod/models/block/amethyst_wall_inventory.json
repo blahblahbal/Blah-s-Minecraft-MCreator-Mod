@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "blahmod:blocks/amethyst_block_side",
+    "particle": "blahmod:blocks/amethyst_block_side"
+  }
+}

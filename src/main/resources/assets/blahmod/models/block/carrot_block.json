@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/carrotblock_bottom",
+    "up": "blahmod:blocks/carrotblock_top",
+    "north": "blahmod:blocks/carrotblock_side",
+    "east": "blahmod:blocks/carrotblock_side",
+    "south": "blahmod:blocks/carrotblock_side",
+    "west": "blahmod:blocks/carrotblock_side",
+    "particle": "blahmod:blocks/carrotblock_bottom"
+  }
+}

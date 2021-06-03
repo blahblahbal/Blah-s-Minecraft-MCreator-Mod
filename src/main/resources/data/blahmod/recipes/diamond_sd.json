@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:diamond_stairs"
+    },
+    "1": {
+      "item": "blahmod:diamond_stairs"
+    },
+    "2": {
+      "item": "blahmod:diamond_stairs"
+    },
+    "3": {
+      "item": "blahmod:diamond_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_block",
+    "count": 6
+  }
+}

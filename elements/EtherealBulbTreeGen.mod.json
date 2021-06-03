@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "structure",
+  "definition": {
+    "structure": "bulb_tree_eth",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 50000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": -5,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Skylands"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:EtherealGrassBlock"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:EtherealGlade"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

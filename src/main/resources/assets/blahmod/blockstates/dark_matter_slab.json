@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/dark_matter_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/dark_matter_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/dark_matter_slab_full"
+    }
+  }
+}

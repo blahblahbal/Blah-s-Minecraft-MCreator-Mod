@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:topaz_stairs"
+    },
+    "1": {
+      "item": "blahmod:topaz_stairs"
+    },
+    "2": {
+      "item": "blahmod:topaz_stairs"
+    },
+    "3": {
+      "item": "blahmod:topaz_stairs"
+    }
+  },
+  "result": {
+    "item": "blahmod:topaz_block",
+    "count": 6
+  }
+}

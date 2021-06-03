@@ -1,0 +1,104 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TadaniteOre"
+      },
+      {
+        "value": "CUSTOM:SulphurOre"
+      },
+      {
+        "value": "CUSTOM:SulphurOreNC"
+      },
+      {
+        "value": "CUSTOM:LumiteOre"
+      },
+      {
+        "value": "CUSTOM:ZirconOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneOre"
+      },
+      {
+        "value": "CUSTOM:AmethystOre"
+      },
+      {
+        "value": "CUSTOM:CitrineOre"
+      },
+      {
+        "value": "CUSTOM:TopazOre"
+      },
+      {
+        "value": "CUSTOM:SapphireOre"
+      },
+      {
+        "value": "CUSTOM:RubyOre"
+      },
+      {
+        "value": "CUSTOM:IronOreSky"
+      },
+      {
+        "value": "CUSTOM:CoalOreSky"
+      },
+      {
+        "value": "CUSTOM:GoldOreSky"
+      },
+      {
+        "value": "CUSTOM:EmeraldOreSky"
+      },
+      {
+        "value": "CUSTOM:DiamondOreSky"
+      },
+      {
+        "value": "CUSTOM:DarkMatterJellyOre"
+      },
+      {
+        "value": "CUSTOM:RubyOreGemBiome"
+      },
+      {
+        "value": "CUSTOM:CitrineOreGemBiome"
+      },
+      {
+        "value": "CUSTOM:TopazOreGemBiome"
+      },
+      {
+        "value": "CUSTOM:EmeraldOreGemBiome"
+      },
+      {
+        "value": "CUSTOM:DiamondOreGemBiome"
+      },
+      {
+        "value": "CUSTOM:SapphireOreGemBiome"
+      },
+      {
+        "value": "CUSTOM:AmethystOreGemBiome"
+      },
+      {
+        "value": "CUSTOM:SunstoneOre"
+      },
+      {
+        "value": "CUSTOM:XenonCrystalOre"
+      },
+      {
+        "value": "CUSTOM:ArgonCrystalOre"
+      },
+      {
+        "value": "CUSTOM:KryptonCrystalOre"
+      },
+      {
+        "value": "CUSTOM:NeonCrystalOre"
+      },
+      {
+        "value": "CUSTOM:UraniumOre"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ores",
+    "namespace": "forge"
+  }
+}

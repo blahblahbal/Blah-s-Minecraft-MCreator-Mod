@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "structure",
+  "definition": {
+    "structure": "frost_tree",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 700000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:NetherCore"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:SoulSnow"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:NetherCoreForest"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

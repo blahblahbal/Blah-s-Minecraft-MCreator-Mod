@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/netherfrost",
+    "up": "blahmod:blocks/core_nylium_top",
+    "north": "blahmod:blocks/core_nylium",
+    "east": "blahmod:blocks/core_nylium",
+    "south": "blahmod:blocks/core_nylium",
+    "west": "blahmod:blocks/core_nylium",
+    "particle": "blahmod:blocks/netherfrost"
+  }
+}

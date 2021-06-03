@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AmethystOre"
+      },
+      {
+        "value": "CUSTOM:AmethystOreGemBiome"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ores/amethyst",
+    "namespace": "forge"
+  }
+}

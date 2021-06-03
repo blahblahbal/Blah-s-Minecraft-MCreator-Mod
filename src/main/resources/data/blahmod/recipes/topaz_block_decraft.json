@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:topaz_block"
+    }
+  ],
+  "result": {
+    "item": "blahmod:topaz",
+    "count": 9
+  }
+}

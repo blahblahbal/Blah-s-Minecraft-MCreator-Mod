@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/cactus_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/cactus_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/cactus_slab_full"
+    }
+  }
+}

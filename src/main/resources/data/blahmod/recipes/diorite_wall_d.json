@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diorite_wall"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diorite",
+    "count": 1
+  }
+}

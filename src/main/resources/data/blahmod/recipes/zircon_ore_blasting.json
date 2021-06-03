@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:blasting",
+  "experience": 5,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "blahmod:zircon_ore"
+  },
+  "result": {
+    "item": "blahmod:zircon"
+  }
+}

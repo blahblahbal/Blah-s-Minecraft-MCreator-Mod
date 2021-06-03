@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/andesitebrick",
+    "up": "blahmod:blocks/andesitebrick",
+    "north": "blahmod:blocks/andesitebrick",
+    "east": "blahmod:blocks/andesitebrick",
+    "south": "blahmod:blocks/andesitebrick",
+    "west": "blahmod:blocks/andesitebrick",
+    "particle": "blahmod:blocks/andesitebrick"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "blahmod:tadanite_armor_helmet"
+    },
+    "title": {
+      "translate": "advancements.tadanite_armor_achievement.title"
+    },
+    "description": {
+      "translate": "advancements.tadanite_armor_achievement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tadanite_armor_achievement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "blahmod:nether_core_achievement"
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:molten_ice",
+    "blahmod:molten_ice_flowing",
+    "blahmod:mineral_water",
+    "blahmod:mineral_water_flowing"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "blahmod:blocks/dreadtrapdoor",
+    "particle": "blahmod:blocks/dreadtrapdoor"
+  }
+}

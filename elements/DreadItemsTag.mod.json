@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DreadWood"
+      },
+      {
+        "value": "CUSTOM:DreadLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "dread_log",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cement"
+    },
+    "3": {
+      "item": "blahmod:cement"
+    },
+    "4": {
+      "item": "blahmod:cement"
+    },
+    "6": {
+      "item": "blahmod:cement"
+    },
+    "7": {
+      "item": "blahmod:cement"
+    },
+    "8": {
+      "item": "blahmod:cement"
+    }
+  },
+  "result": {
+    "item": "blahmod:cement_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/dark_matter_jelly_ore",
+    "up": "blahmod:blocks/dark_matter_jelly_ore",
+    "north": "blahmod:blocks/dark_matter_jelly_ore",
+    "east": "blahmod:blocks/dark_matter_jelly_ore",
+    "south": "blahmod:blocks/dark_matter_jelly_ore",
+    "west": "blahmod:blocks/dark_matter_jelly_ore",
+    "particle": "blahmod:blocks/dark_matter_jelly_ore"
+  }
+}

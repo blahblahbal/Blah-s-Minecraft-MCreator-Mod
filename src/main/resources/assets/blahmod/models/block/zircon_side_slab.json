@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/zirconblock",
+    "particle": "blahmod:blocks/zirconblock",
+    "side": "blahmod:blocks/zirconblock",
+    "top": "blahmod:blocks/zirconblock",
+    "bottom": "blahmod:blocks/zirconblock"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_slab"
+    },
+    "1": {
+      "item": "minecraft:spruce_slab"
+    },
+    "2": {
+      "item": "minecraft:spruce_slab"
+    },
+    "3": {
+      "item": "minecraft:spruce_slab"
+    },
+    "4": {
+      "item": "minecraft:spruce_slab"
+    },
+    "5": {
+      "item": "minecraft:spruce_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:spruce_planks",
+    "count": 3
+  }
+}

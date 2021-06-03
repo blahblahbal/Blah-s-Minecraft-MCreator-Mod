@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:citrine_block"
+    },
+    "1": {
+      "item": "blahmod:citrine_block"
+    },
+    "2": {
+      "item": "blahmod:citrine_block"
+    },
+    "3": {
+      "item": "blahmod:citrine_block"
+    },
+    "4": {
+      "item": "blahmod:citrine_block"
+    },
+    "5": {
+      "item": "blahmod:citrine_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:citrine_wall",
+    "count": 6
+  }
+}

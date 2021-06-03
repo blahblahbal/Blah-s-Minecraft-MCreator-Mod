@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:bedrock_2"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

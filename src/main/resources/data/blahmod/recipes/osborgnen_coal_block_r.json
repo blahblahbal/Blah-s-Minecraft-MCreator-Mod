@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:osborgnen_fuel"
+    },
+    "1": {
+      "item": "blahmod:osborgnen_fuel"
+    },
+    "2": {
+      "item": "blahmod:osborgnen_fuel"
+    },
+    "3": {
+      "item": "blahmod:osborgnen_fuel"
+    },
+    "4": {
+      "item": "blahmod:osborgnen_fuel"
+    },
+    "5": {
+      "item": "blahmod:osborgnen_fuel"
+    },
+    "6": {
+      "item": "blahmod:osborgnen_fuel"
+    },
+    "7": {
+      "item": "blahmod:osborgnen_fuel"
+    },
+    "8": {
+      "item": "blahmod:osborgnen_fuel"
+    }
+  },
+  "result": {
+    "item": "blahmod:osborgnen_coal_block",
+    "count": 1
+  }
+}

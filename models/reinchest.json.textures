@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "reinchest_bottom",
+        "left": "reinchest_sideback",
+        "bottom": "reinchest_bottom",
+        "back": "reinchest_sideback",
+        "front": "reinchest_front",
+        "right": "reinchest_sideback"
+      },
+      "name": "default"
+    }
+  }
+}

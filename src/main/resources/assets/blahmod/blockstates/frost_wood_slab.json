@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/frost_wood_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/frost_wood_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/frost_wood_slab_full"
+    }
+  }
+}

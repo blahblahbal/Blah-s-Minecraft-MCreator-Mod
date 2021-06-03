@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/dioritebrick",
+    "up": "blahmod:blocks/dioritebrick",
+    "north": "blahmod:blocks/dioritebrick",
+    "east": "blahmod:blocks/dioritebrick",
+    "south": "blahmod:blocks/dioritebrick",
+    "west": "blahmod:blocks/dioritebrick",
+    "particle": "blahmod:blocks/dioritebrick"
+  }
+}

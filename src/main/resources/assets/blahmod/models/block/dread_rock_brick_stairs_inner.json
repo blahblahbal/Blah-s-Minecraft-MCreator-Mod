@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blahmod:blocks/dreadrockbricks",
+    "top": "blahmod:blocks/dreadrockbricks",
+    "side": "blahmod:blocks/dreadrockbricks"
+  }
+}

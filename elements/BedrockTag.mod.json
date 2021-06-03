@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Bedrock2"
+      },
+      {
+        "value": "Blocks.BEDROCK"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "bedrock_tag",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cactus_planks"
+    },
+    "3": {
+      "item": "blahmod:cactus_planks"
+    },
+    "4": {
+      "item": "blahmod:cactus_planks"
+    },
+    "6": {
+      "item": "blahmod:cactus_planks"
+    },
+    "7": {
+      "item": "blahmod:cactus_planks"
+    },
+    "8": {
+      "item": "blahmod:cactus_planks"
+    }
+  },
+  "result": {
+    "item": "blahmod:cactus_stairs",
+    "count": 4
+  }
+}

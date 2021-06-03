@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:neon_crystal"
+    },
+    "1": {
+      "item": "blahmod:neon_crystal"
+    },
+    "2": {
+      "item": "blahmod:neon_crystal"
+    },
+    "3": {
+      "item": "blahmod:neon_crystal"
+    },
+    "4": {
+      "item": "blahmod:neon_crystal"
+    },
+    "5": {
+      "item": "blahmod:neon_crystal"
+    },
+    "6": {
+      "item": "blahmod:neon_crystal"
+    },
+    "7": {
+      "item": "blahmod:neon_crystal"
+    },
+    "8": {
+      "item": "blahmod:neon_crystal"
+    }
+  },
+  "result": {
+    "item": "blahmod:neon_lamp",
+    "count": 1
+  }
+}

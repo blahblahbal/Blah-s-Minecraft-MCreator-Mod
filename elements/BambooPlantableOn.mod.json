@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:BlackSand"
+      },
+      {
+        "value": "CUSTOM:DreadSand"
+      },
+      {
+        "value": "CUSTOM:FrostSand"
+      },
+      {
+        "value": "CUSTOM:EtherealDirt"
+      },
+      {
+        "value": "CUSTOM:Bonesand"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "bamboo_plantable_on",
+    "namespace": "minecraft"
+  }
+}

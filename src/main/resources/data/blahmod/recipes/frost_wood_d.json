@@ -1,0 +1,22 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:frost_wood_wood"
+    },
+    "1": {
+      "item": "blahmod:frost_wood_wood"
+    },
+    "2": {
+      "item": "blahmod:frost_wood_wood"
+    }
+  },
+  "result": {
+    "item": "blahmod:frost_wood_log",
+    "count": 4
+  }
+}

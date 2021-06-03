@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "blahmod:blocks/petrified_planks",
+    "particle": "blahmod:blocks/petrified_planks"
+  }
+}

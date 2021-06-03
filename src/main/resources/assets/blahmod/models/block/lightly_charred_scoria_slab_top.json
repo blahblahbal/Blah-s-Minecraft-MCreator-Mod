@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "blahmod:blocks/lightlycharredscoria",
+    "top": "blahmod:blocks/lightlycharredscoria",
+    "side": "blahmod:blocks/lightlycharredscoria"
+  }
+}

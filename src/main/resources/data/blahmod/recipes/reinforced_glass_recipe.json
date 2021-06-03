@@ -1,0 +1,12 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "blahmod:black_sand"
+  },
+  "result": {
+    "item": "blahmod:reinforced_glass"
+  }
+}

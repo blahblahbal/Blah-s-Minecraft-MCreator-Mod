@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/sulphurorenc",
+    "up": "blahmod:blocks/sulphurorenc",
+    "north": "blahmod:blocks/sulphurorenc",
+    "east": "blahmod:blocks/sulphurorenc",
+    "south": "blahmod:blocks/sulphurorenc",
+    "west": "blahmod:blocks/sulphurorenc",
+    "particle": "blahmod:blocks/sulphurorenc"
+  }
+}

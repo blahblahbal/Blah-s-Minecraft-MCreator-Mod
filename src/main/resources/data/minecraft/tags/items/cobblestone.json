@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cobblestone",
+    "blahmod:tropics_cobblestone"
+  ]
+}

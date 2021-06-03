@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "blahmod:blocks/cactus_planks",
+    "top": "blahmod:blocks/cactus_planks",
+    "side": "blahmod:blocks/cactus_planks"
+  }
+}

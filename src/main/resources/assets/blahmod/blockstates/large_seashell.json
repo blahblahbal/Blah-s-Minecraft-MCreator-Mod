@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blahmod:block/large_seashell"
+    },
+    "facing=east": {
+      "model": "blahmod:block/large_seashell",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "blahmod:block/large_seashell",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blahmod:block/large_seashell",
+      "y": 270
+    }
+  }
+}

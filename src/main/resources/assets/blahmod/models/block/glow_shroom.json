@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blahmod:blocks/glow_shroom",
+    "particle": "blahmod:blocks/glow_shroom"
+  }
+}

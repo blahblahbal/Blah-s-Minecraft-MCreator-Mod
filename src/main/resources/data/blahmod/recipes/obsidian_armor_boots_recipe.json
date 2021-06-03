@@ -1,0 +1,29 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:obsidian_ingot"
+    },
+    "1": {
+      "item": "blahmod:obsidian_construct"
+    },
+    "2": {
+      "item": "blahmod:obsidian_ingot"
+    },
+    "3": {
+      "item": "blahmod:obsidian_ingot"
+    },
+    "5": {
+      "item": "blahmod:obsidian_ingot"
+    }
+  },
+  "result": {
+    "item": "blahmod:obsidian_armor_boots",
+    "count": 1
+  }
+}

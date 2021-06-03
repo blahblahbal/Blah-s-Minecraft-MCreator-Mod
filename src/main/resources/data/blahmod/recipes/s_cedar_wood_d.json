@@ -1,0 +1,22 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:stripped_cedar_wood"
+    },
+    "1": {
+      "item": "blahmod:stripped_cedar_wood"
+    },
+    "2": {
+      "item": "blahmod:stripped_cedar_wood"
+    }
+  },
+  "result": {
+    "item": "blahmod:stripped_cedar_log",
+    "count": 4
+  }
+}

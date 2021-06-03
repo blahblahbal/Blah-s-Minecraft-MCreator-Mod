@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "blahmod:blocks/whitewood_door_bottom",
+    "top": "blahmod:blocks/whitewood_door_top"
+  }
+}

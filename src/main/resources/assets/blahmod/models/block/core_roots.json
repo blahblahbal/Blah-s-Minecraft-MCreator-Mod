@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blahmod:blocks/core_roots",
+    "particle": "blahmod:blocks/core_roots"
+  }
+}

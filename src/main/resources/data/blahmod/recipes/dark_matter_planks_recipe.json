@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:dark_matter_log"
+    }
+  ],
+  "result": {
+    "item": "blahmod:dark_matter_planks",
+    "count": 4
+  }
+}

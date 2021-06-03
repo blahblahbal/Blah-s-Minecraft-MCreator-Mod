@@ -1,0 +1,7 @@
+{
+  "parent": "blahmod:custom/largeseashell",
+  "textures": {
+    "all": "blahmod:blocks/seashell",
+    "particle": "blahmod:blocks/seashell"
+  }
+}

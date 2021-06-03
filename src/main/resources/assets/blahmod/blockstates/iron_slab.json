@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/iron_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/iron_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/iron_slab_full"
+    }
+  }
+}

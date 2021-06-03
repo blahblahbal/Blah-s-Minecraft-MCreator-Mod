@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "3": {
+      "item": "blahmod:obsidified_blaze_rod"
+    },
+    "4": {
+      "item": "blahmod:tadanite_block"
+    },
+    "5": {
+      "item": "blahmod:obsidified_blaze_rod"
+    },
+    "6": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    },
+    "8": {
+      "item": "blahmod:tadanite_crystal"
+    }
+  },
+  "result": {
+    "item": "blahmod:tadanite_diamond",
+    "count": 1
+  }
+}

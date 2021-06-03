@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:side_slab_test"
+    },
+    "1": {
+      "item": "blahmod:side_slab_test"
+    },
+    "2": {
+      "item": "blahmod:side_slab_test"
+    },
+    "3": {
+      "item": "blahmod:side_slab_test"
+    },
+    "4": {
+      "item": "blahmod:side_slab_test"
+    },
+    "5": {
+      "item": "blahmod:side_slab_test"
+    }
+  },
+  "result": {
+    "item": "blahmod:blaze_brick",
+    "count": 3
+  }
+}

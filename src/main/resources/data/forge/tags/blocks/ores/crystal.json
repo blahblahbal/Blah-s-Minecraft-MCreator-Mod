@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:xenon_crystal_ore",
+    "blahmod:argon_crystal_ore",
+    "blahmod:krypton_crystal_ore",
+    "blahmod:neon_crystal_ore"
+  ]
+}

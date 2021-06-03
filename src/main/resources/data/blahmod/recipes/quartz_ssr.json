@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_quartz"
+    },
+    "1": {
+      "item": "minecraft:smooth_quartz"
+    },
+    "2": {
+      "item": "minecraft:smooth_quartz"
+    }
+  },
+  "result": {
+    "item": "blahmod:quartz_side_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/petrifiedwood",
+    "up": "blahmod:blocks/petrifiedwood",
+    "north": "blahmod:blocks/petrifiedwood",
+    "east": "blahmod:blocks/petrifiedwood",
+    "south": "blahmod:blocks/petrifiedwood",
+    "west": "blahmod:blocks/petrifiedwood",
+    "particle": "blahmod:blocks/petrifiedwood"
+  }
+}

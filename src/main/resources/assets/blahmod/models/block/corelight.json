@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/corelight",
+    "up": "blahmod:blocks/corelight",
+    "north": "blahmod:blocks/corelight",
+    "east": "blahmod:blocks/corelight",
+    "south": "blahmod:blocks/corelight",
+    "west": "blahmod:blocks/corelight",
+    "particle": "blahmod:blocks/corelight"
+  }
+}

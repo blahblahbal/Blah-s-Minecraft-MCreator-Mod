@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "block/gold_block",
+    "particle": "block/gold_block",
+    "side": "block/gold_block",
+    "top": "block/gold_block",
+    "bottom": "block/gold_block"
+  }
+}

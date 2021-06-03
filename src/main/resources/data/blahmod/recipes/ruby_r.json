@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:ruby_shard"
+    },
+    "1": {
+      "item": "blahmod:ruby_shard"
+    },
+    "2": {
+      "item": "blahmod:ruby_shard"
+    },
+    "3": {
+      "item": "blahmod:ruby_shard"
+    }
+  },
+  "result": {
+    "item": "blahmod:ruby",
+    "count": 1
+  }
+}

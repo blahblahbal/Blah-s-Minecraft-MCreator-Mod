@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blahmod:block/player_piston"
+    },
+    "facing=east": {
+      "model": "blahmod:block/player_piston",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "blahmod:block/player_piston",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blahmod:block/player_piston",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "blahmod:block/player_piston",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "blahmod:block/player_piston",
+      "x": 90
+    }
+  }
+}

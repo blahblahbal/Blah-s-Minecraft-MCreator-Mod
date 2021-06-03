@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "blahmod:blocks/tropicsplanks",
+    "particle": "blahmod:blocks/tropicsplanks"
+  }
+}

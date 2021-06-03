@@ -1,0 +1,36 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "planks"
+    },
+    "1": {
+      "tag": "planks"
+    },
+    "2": {
+      "tag": "planks"
+    },
+    "3": {
+      "tag": "planks"
+    },
+    "4": {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    "5": {
+      "tag": "planks"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "blahmod:wooden_hammer",
+    "count": 1
+  }
+}

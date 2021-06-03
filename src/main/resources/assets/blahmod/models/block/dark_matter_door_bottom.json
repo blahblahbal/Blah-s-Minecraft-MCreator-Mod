@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "blahmod:blocks/dark_matter_door_bottom",
+    "top": "blahmod:blocks/dark_matter_door_top"
+  }
+}

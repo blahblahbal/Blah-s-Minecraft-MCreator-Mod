@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blahmod:blocks/citrine_ore_nether",
+    "particle": "blahmod:blocks/citrine_ore_nether"
+  }
+}

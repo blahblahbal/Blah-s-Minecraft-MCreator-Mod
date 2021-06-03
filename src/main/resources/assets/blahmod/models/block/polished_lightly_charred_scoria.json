@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/polishedlightlycharredscoria",
+    "up": "blahmod:blocks/polishedlightlycharredscoria",
+    "north": "blahmod:blocks/polishedlightlycharredscoria",
+    "east": "blahmod:blocks/polishedlightlycharredscoria",
+    "south": "blahmod:blocks/polishedlightlycharredscoria",
+    "west": "blahmod:blocks/polishedlightlycharredscoria",
+    "particle": "blahmod:blocks/polishedlightlycharredscoria"
+  }
+}

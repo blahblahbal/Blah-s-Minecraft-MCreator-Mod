@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:amethyst_block"
+    }
+  ],
+  "result": {
+    "item": "blahmod:amethyst",
+    "count": 9
+  }
+}

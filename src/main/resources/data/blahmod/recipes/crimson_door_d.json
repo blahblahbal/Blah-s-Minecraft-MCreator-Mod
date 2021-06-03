@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:crimson_door"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crimson_planks",
+    "count": 2
+  }
+}

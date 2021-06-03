@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/sapphireblock",
+    "particle": "blahmod:blocks/sapphireblock",
+    "side": "blahmod:blocks/sapphireblock",
+    "top": "blahmod:blocks/sapphireblock",
+    "bottom": "blahmod:blocks/sapphireblock"
+  }
+}

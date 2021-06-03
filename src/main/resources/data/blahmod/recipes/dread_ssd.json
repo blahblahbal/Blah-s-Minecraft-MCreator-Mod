@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:dread_wood_side_slab"
+    },
+    "1": {
+      "item": "blahmod:dread_wood_side_slab"
+    },
+    "2": {
+      "item": "blahmod:dread_wood_side_slab"
+    },
+    "3": {
+      "item": "blahmod:dread_wood_side_slab"
+    },
+    "4": {
+      "item": "blahmod:dread_wood_side_slab"
+    },
+    "5": {
+      "item": "blahmod:dread_wood_side_slab"
+    }
+  },
+  "result": {
+    "item": "blahmod:dread_planks",
+    "count": 3
+  }
+}

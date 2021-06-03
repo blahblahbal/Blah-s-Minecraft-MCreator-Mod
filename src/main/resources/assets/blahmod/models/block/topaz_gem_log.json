@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/topaz_gem_log_top",
+    "up": "blahmod:blocks/topaz_gem_log_top",
+    "north": "blahmod:blocks/gem_log_no_gem",
+    "east": "blahmod:blocks/gem_log_no_gem",
+    "south": "blahmod:blocks/gem_log_no_gem",
+    "west": "blahmod:blocks/gem_log_no_gem",
+    "particle": "blahmod:blocks/topaz_gem_log_top"
+  }
+}

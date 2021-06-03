@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/strippedcedarlog_top",
+    "up": "blahmod:blocks/strippedcedarlog_top",
+    "north": "blahmod:blocks/strippedcedarlog_side",
+    "east": "blahmod:blocks/strippedcedarlog_side",
+    "south": "blahmod:blocks/strippedcedarlog_side",
+    "west": "blahmod:blocks/strippedcedarlog_side",
+    "particle": "blahmod:blocks/strippedcedarlog_top"
+  }
+}

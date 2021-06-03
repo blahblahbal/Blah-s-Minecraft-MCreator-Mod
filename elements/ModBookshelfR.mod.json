@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:planks"
+      },
+      {
+        "value": "TAG:planks"
+      },
+      {
+        "value": "TAG:planks"
+      },
+      {
+        "value": "Items.BOOK"
+      },
+      {
+        "value": "Items.BOOK"
+      },
+      {
+        "value": "Items.BOOK"
+      },
+      {
+        "value": "TAG:planks"
+      },
+      {
+        "value": "TAG:planks"
+      },
+      {
+        "value": "TAG:planks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.BOOKSHELF"
+    },
+    "name": "mod_bookshelf_r",
+    "namespace": "mod"
+  }
+}

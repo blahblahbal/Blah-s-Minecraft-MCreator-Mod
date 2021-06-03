@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sandstone_stairs"
+    },
+    "1": {
+      "item": "minecraft:sandstone_stairs"
+    },
+    "2": {
+      "item": "minecraft:sandstone_stairs"
+    },
+    "3": {
+      "item": "minecraft:sandstone_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:sandstone",
+    "count": 6
+  }
+}

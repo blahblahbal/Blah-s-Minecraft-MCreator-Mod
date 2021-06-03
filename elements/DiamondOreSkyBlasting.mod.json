@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 3.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:DiamondOreSky"
+    },
+    "blastingReturnStack": {
+      "value": "Items.DIAMOND"
+    },
+    "name": "diamond_ore_sky_blasting",
+    "namespace": "mod"
+  }
+}

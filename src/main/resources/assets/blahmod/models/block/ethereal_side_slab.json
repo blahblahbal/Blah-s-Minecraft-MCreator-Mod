@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/ethereal_planks",
+    "particle": "blahmod:blocks/ethereal_planks",
+    "side": "blahmod:blocks/ethereal_planks",
+    "top": "blahmod:blocks/ethereal_planks",
+    "bottom": "blahmod:blocks/ethereal_planks"
+  }
+}

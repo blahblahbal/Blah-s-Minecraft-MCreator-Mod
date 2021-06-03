@@ -1,0 +1,38 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:DreadFenceGate"
+      },
+      {
+        "value": "CUSTOM:TropicsFenceGate"
+      },
+      {
+        "value": "CUSTOM:CedarFenceGate"
+      },
+      {
+        "value": "CUSTOM:FrostWoodFenceGate"
+      },
+      {
+        "value": "CUSTOM:DarkMatterFenceGate"
+      },
+      {
+        "value": "CUSTOM:CactusFenceGate"
+      },
+      {
+        "value": "CUSTOM:WhitewoodFenceGate"
+      },
+      {
+        "value": "CUSTOM:EtherealFenceGate"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "fence_gates/wooden",
+    "namespace": "forge"
+  }
+}

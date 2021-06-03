@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:magnetite"
+    },
+    "1": {
+      "item": "blahmod:magnetite"
+    },
+    "2": {
+      "item": "blahmod:magnetite"
+    },
+    "3": {
+      "item": "blahmod:magnetite"
+    }
+  },
+  "result": {
+    "item": "blahmod:polished_magnetite",
+    "count": 4
+  }
+}

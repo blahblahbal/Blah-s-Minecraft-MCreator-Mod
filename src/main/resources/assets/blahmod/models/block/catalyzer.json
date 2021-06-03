@@ -1,0 +1,8 @@
+{
+  "parent": "blahmod:custom/catalyzer",
+  "textures": {
+    "all": "blahmod:blocks/catalyzer",
+    "particle": "blahmod:blocks/catalyzer",
+    "0": "blahmod:blocks/catalyzer"
+  }
+}

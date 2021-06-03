@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/flintblock",
+    "up": "blahmod:blocks/flintblock",
+    "north": "blahmod:blocks/flintblock",
+    "east": "blahmod:blocks/flintblock",
+    "south": "blahmod:blocks/flintblock",
+    "west": "blahmod:blocks/flintblock",
+    "particle": "blahmod:blocks/flintblock"
+  }
+}

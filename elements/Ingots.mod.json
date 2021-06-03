@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ObsidianIngot"
+      },
+      {
+        "value": "CUSTOM:LumiteIngot"
+      },
+      {
+        "value": "CUSTOM:UraniumIngot"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ingots",
+    "namespace": "forge"
+  }
+}

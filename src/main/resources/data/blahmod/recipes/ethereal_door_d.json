@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:ethereal_door"
+    }
+  ],
+  "result": {
+    "item": "blahmod:ethereal_planks",
+    "count": 2
+  }
+}

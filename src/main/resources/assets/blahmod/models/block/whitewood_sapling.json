@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blahmod:blocks/whitewood_sapling",
+    "particle": "blahmod:blocks/whitewood_sapling"
+  }
+}

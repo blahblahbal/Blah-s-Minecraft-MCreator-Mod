@@ -1,0 +1,61 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "tadanitehelmet",
+    "enableBody": true,
+    "textureBody": "tadanitechestplate",
+    "enableLeggings": true,
+    "textureLeggings": "tadaniteleggings",
+    "enableBoots": true,
+    "textureBoots": "tadaniteboots",
+    "onBodyTick": {
+      "name": "Armor"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTabBlahItems"
+    },
+    "armorTextureFile": "tadanite__",
+    "helmetName": "§aTadanite Helmet",
+    "bodyName": "§aTadanite Chestplate",
+    "leggingsName": "§aTadanite Leggings",
+    "bootsName": "§aTadanite Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 200,
+    "damageValueHelmet": 6,
+    "damageValueBody": 11,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 6,
+    "enchantability": 9,
+    "toughness": 2.5,
+    "knockbackResistance": 0.12,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:TadaniteIngot"
+      }
+    ]
+  }
+}

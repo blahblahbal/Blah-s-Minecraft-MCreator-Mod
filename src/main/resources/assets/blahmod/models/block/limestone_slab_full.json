@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "blahmod:blocks/limestoneblock",
+    "top": "blahmod:blocks/limestoneblock",
+    "side": "blahmod:blocks/limestoneblock"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "1": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "2": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "3": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "5": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "6": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "7": {
+      "item": "blahmod:tadanite_crystal"
+    },
+    "8": {
+      "item": "blahmod:tadanite_crystal"
+    }
+  },
+  "result": {
+    "item": "blahmod:tadanite_block",
+    "count": 1
+  }
+}

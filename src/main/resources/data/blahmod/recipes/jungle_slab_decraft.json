@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_slab"
+    },
+    "1": {
+      "item": "minecraft:jungle_slab"
+    },
+    "2": {
+      "item": "minecraft:jungle_slab"
+    },
+    "3": {
+      "item": "minecraft:jungle_slab"
+    },
+    "4": {
+      "item": "minecraft:jungle_slab"
+    },
+    "5": {
+      "item": "minecraft:jungle_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:jungle_planks",
+    "count": 3
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:amethyst"
+    },
+    "1": {
+      "item": "blahmod:amethyst"
+    },
+    "2": {
+      "item": "blahmod:amethyst"
+    },
+    "3": {
+      "item": "blahmod:amethyst"
+    },
+    "4": {
+      "item": "blahmod:amethyst"
+    },
+    "5": {
+      "item": "blahmod:amethyst"
+    },
+    "6": {
+      "item": "blahmod:amethyst"
+    },
+    "7": {
+      "item": "blahmod:amethyst"
+    },
+    "8": {
+      "item": "blahmod:amethyst"
+    }
+  },
+  "result": {
+    "item": "blahmod:amethyst_block",
+    "count": 1
+  }
+}

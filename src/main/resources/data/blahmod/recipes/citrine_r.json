@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:citrine_shard"
+    },
+    "1": {
+      "item": "blahmod:citrine_shard"
+    },
+    "2": {
+      "item": "blahmod:citrine_shard"
+    },
+    "3": {
+      "item": "blahmod:citrine_shard"
+    }
+  },
+  "result": {
+    "item": "blahmod:citrine",
+    "count": 1
+  }
+}

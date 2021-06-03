@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/tropicsplanks",
+    "particle": "blahmod:blocks/tropicsplanks",
+    "side": "blahmod:blocks/tropicsplanks",
+    "top": "blahmod:blocks/tropicsplanks",
+    "bottom": "blahmod:blocks/tropicsplanks"
+  }
+}

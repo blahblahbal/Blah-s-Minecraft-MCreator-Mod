@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:obsidian_brick"
+    }
+  ],
+  "result": {
+    "item": "blahmod:obsidian_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/citrineblock",
+    "particle": "blahmod:blocks/citrineblock",
+    "side": "blahmod:blocks/citrineblock",
+    "top": "blahmod:blocks/citrineblock",
+    "bottom": "blahmod:blocks/citrineblock"
+  }
+}

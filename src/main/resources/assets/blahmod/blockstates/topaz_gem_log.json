@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "blahmod:block/topaz_gem_log"
+    },
+    "facing=north": {
+      "model": "blahmod:block/topaz_gem_log"
+    },
+    "facing=east": {
+      "model": "blahmod:block/topaz_gem_log",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "blahmod:block/topaz_gem_log",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "blahmod:block/topaz_gem_log",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "blahmod:block/topaz_gem_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

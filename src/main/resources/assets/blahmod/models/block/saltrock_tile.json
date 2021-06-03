@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/saltrock_tile",
+    "up": "blahmod:blocks/saltrock_tile",
+    "north": "blahmod:blocks/saltrock_tile",
+    "east": "blahmod:blocks/saltrock_tile",
+    "south": "blahmod:blocks/saltrock_tile",
+    "west": "blahmod:blocks/saltrock_tile",
+    "particle": "blahmod:blocks/saltrock_tile"
+  }
+}

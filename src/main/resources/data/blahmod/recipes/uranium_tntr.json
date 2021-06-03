@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:uranium_ingot"
+    },
+    "1": {
+      "item": "blahmod:sulphur"
+    },
+    "2": {
+      "item": "blahmod:uranium_ingot"
+    },
+    "3": {
+      "item": "blahmod:sulphur"
+    },
+    "4": {
+      "item": "minecraft:tnt"
+    },
+    "5": {
+      "item": "blahmod:sulphur"
+    },
+    "6": {
+      "item": "blahmod:uranium_ingot"
+    },
+    "7": {
+      "item": "blahmod:sulphur"
+    },
+    "8": {
+      "item": "blahmod:uranium_ingot"
+    }
+  },
+  "result": {
+    "item": "blahmod:uranium_tnt",
+    "count": 1
+  }
+}

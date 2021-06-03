@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "blahmod:block/dark_matter_bush"
+    },
+    "half=lower": {
+      "model": "blahmod:block/dark_matter_bush_bottom"
+    }
+  }
+}

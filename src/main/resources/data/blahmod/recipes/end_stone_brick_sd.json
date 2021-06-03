@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_stone_brick_stairs"
+    },
+    "1": {
+      "item": "minecraft:end_stone_brick_stairs"
+    },
+    "2": {
+      "item": "minecraft:end_stone_brick_stairs"
+    },
+    "3": {
+      "item": "minecraft:end_stone_brick_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:end_stone_bricks",
+    "count": 6
+  }
+}

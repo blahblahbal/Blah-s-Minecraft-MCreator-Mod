@@ -1,0 +1,30 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:sapphire"
+    },
+    "1": {
+      "item": "blahmod:sapphire"
+    },
+    "2": {
+      "item": "blahmod:sapphire"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "blahmod:sapphire_axe",
+    "count": 1
+  }
+}

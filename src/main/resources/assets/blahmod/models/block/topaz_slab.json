@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blahmod:blocks/topazblock",
+    "top": "blahmod:blocks/topazblock",
+    "side": "blahmod:blocks/topazblock"
+  }
+}

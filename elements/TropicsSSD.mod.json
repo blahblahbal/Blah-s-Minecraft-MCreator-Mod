@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TropicsWoodSideSlab"
+      },
+      {
+        "value": "CUSTOM:TropicsWoodSideSlab"
+      },
+      {
+        "value": "CUSTOM:TropicsWoodSideSlab"
+      },
+      {
+        "value": "CUSTOM:TropicsWoodSideSlab"
+      },
+      {
+        "value": "CUSTOM:TropicsWoodSideSlab"
+      },
+      {
+        "value": "CUSTOM:TropicsWoodSideSlab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TropicsPlanks"
+    },
+    "name": "tropics_ssd",
+    "namespace": "mod"
+  }
+}

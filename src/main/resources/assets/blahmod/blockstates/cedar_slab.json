@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blahmod:block/cedar_slab"
+    },
+    "type=top": {
+      "model": "blahmod:block/cedar_slab_top"
+    },
+    "type=double": {
+      "model": "blahmod:block/cedar_slab_full"
+    }
+  }
+}

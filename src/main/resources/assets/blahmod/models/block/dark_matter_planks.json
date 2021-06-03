@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/dark_matter_planks",
+    "up": "blahmod:blocks/dark_matter_planks",
+    "north": "blahmod:blocks/dark_matter_planks",
+    "east": "blahmod:blocks/dark_matter_planks",
+    "south": "blahmod:blocks/dark_matter_planks",
+    "west": "blahmod:blocks/dark_matter_planks",
+    "particle": "blahmod:blocks/dark_matter_planks"
+  }
+}

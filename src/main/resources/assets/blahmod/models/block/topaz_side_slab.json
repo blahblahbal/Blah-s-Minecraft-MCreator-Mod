@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/topazblock",
+    "particle": "blahmod:blocks/topazblock",
+    "side": "blahmod:blocks/topazblock",
+    "top": "blahmod:blocks/topazblock",
+    "bottom": "blahmod:blocks/topazblock"
+  }
+}

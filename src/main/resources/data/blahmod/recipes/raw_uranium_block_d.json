@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:raw_uranium_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:raw_uranium",
+    "count": 9
+  }
+}

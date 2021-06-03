@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:lumite_block"
+    },
+    "1": {
+      "item": "blahmod:lumite_block"
+    },
+    "2": {
+      "item": "blahmod:lumite_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:lumite_side_slab",
+    "count": 6
+  }
+}

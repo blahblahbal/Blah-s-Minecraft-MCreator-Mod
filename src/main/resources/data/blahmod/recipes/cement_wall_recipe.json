@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cement"
+    },
+    "1": {
+      "item": "blahmod:cement"
+    },
+    "2": {
+      "item": "blahmod:cement"
+    },
+    "3": {
+      "item": "blahmod:cement"
+    },
+    "4": {
+      "item": "blahmod:cement"
+    },
+    "5": {
+      "item": "blahmod:cement"
+    }
+  },
+  "result": {
+    "item": "blahmod:cement_wall",
+    "count": 6
+  }
+}

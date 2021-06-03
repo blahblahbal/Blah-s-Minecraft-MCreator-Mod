@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:frost_wood_stairs"
+    },
+    "1": {
+      "item": "blahmod:frost_wood_stairs"
+    },
+    "2": {
+      "item": "blahmod:frost_wood_stairs"
+    },
+    "3": {
+      "item": "blahmod:frost_wood_stairs"
+    }
+  },
+  "result": {
+    "item": "blahmod:frost_wood_planks",
+    "count": 6
+  }
+}

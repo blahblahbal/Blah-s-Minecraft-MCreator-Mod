@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "blahmod:blocks/whitewood_planks",
+    "top": "blahmod:blocks/whitewood_planks",
+    "side": "blahmod:blocks/whitewood_planks"
+  }
+}

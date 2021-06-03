@@ -1,0 +1,36 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidian_hammer",
+    "customModelName": "Normal",
+    "name": "Obsidian Hammer",
+    "specialInfo": [
+      "§7Fragile"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTabBlahItems"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 6.0,
+    "attackSpeed": 0.4,
+    "enchantability": 17,
+    "damageVsEntity": 10.5,
+    "usageCount": 30,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ObsidianIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "MiningHammerBlockDestroyed"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "torch": "underwater_torch"
+      },
+      "name": "default"
+    }
+  }
+}

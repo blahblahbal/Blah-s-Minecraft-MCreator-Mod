@@ -1,0 +1,24 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:cement"
+    },
+    "1": {
+      "item": "blahmod:cement"
+    },
+    "2": {
+      "item": "blahmod:cement"
+    }
+  },
+  "result": {
+    "item": "blahmod:cement_side_slab",
+    "count": 6
+  }
+}

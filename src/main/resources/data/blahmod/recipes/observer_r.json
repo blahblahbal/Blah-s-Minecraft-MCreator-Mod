@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "cobblestone_types"
+    },
+    "1": {
+      "tag": "cobblestone_types"
+    },
+    "2": {
+      "tag": "cobblestone_types"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "minecraft:redstone"
+    },
+    "5": {
+      "item": "minecraft:quartz"
+    },
+    "6": {
+      "tag": "cobblestone_types"
+    },
+    "7": {
+      "tag": "cobblestone_types"
+    },
+    "8": {
+      "tag": "cobblestone_types"
+    }
+  },
+  "result": {
+    "item": "minecraft:observer",
+    "count": 1
+  }
+}

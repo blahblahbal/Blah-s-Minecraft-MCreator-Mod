@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "blahmod:block/ethereal_wood"
+    },
+    "facing=north": {
+      "model": "blahmod:block/ethereal_wood"
+    },
+    "facing=east": {
+      "model": "blahmod:block/ethereal_wood",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "blahmod:block/ethereal_wood",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "blahmod:block/ethereal_wood",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "blahmod:block/ethereal_wood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

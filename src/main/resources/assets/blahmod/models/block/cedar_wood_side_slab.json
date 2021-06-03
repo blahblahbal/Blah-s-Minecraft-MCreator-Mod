@@ -1,0 +1,10 @@
+{
+  "parent": "blahmod:custom/side_slab",
+  "textures": {
+    "all": "blahmod:blocks/cedarplanks",
+    "particle": "blahmod:blocks/cedarplanks",
+    "side": "blahmod:blocks/cedarplanks",
+    "top": "blahmod:blocks/cedarplanks",
+    "bottom": "blahmod:blocks/cedarplanks"
+  }
+}

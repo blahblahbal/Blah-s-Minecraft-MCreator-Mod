@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/shroom_mud",
+    "up": "blahmod:blocks/shroom_mud",
+    "north": "blahmod:blocks/shroom_mud",
+    "east": "blahmod:blocks/shroom_mud",
+    "south": "blahmod:blocks/shroom_mud",
+    "west": "blahmod:blocks/shroom_mud",
+    "particle": "blahmod:blocks/shroom_mud"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:dark_matter_gel_block"
+    }
+  },
+  "result": {
+    "item": "blahmod:dark_matter_slimeball",
+    "count": 9
+  }
+}

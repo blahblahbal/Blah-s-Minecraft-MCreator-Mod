@@ -1,0 +1,30 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "bedrock_tag"
+    },
+    "1": {
+      "tag": "bedrock_tag"
+    },
+    "2": {
+      "tag": "bedrock_tag"
+    },
+    "4": {
+      "item": "blahmod:frozen_rod"
+    },
+    "7": {
+      "item": "blahmod:frozen_rod"
+    }
+  },
+  "result": {
+    "item": "blahmod:bedrock_pickaxe",
+    "count": 1
+  }
+}

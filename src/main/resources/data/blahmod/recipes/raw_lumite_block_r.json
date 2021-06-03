@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:raw_lumite"
+    },
+    "1": {
+      "item": "blahmod:raw_lumite"
+    },
+    "2": {
+      "item": "blahmod:raw_lumite"
+    },
+    "3": {
+      "item": "blahmod:raw_lumite"
+    },
+    "4": {
+      "item": "blahmod:raw_lumite"
+    },
+    "5": {
+      "item": "blahmod:raw_lumite"
+    },
+    "6": {
+      "item": "blahmod:raw_lumite"
+    },
+    "7": {
+      "item": "blahmod:raw_lumite"
+    },
+    "8": {
+      "item": "blahmod:raw_lumite"
+    }
+  },
+  "result": {
+    "item": "blahmod:raw_lumite_block",
+    "count": 1
+  }
+}

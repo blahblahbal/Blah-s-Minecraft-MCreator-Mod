@@ -1,0 +1,13 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blahmod:lumite_block"
+    }
+  ],
+  "result": {
+    "item": "blahmod:lumite_ingot",
+    "count": 9
+  }
+}

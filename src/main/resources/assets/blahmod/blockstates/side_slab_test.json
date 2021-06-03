@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blahmod:block/side_slab_test"
+    },
+    "facing=east": {
+      "model": "blahmod:block/side_slab_test",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "blahmod:block/side_slab_test",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blahmod:block/side_slab_test",
+      "y": 270
+    }
+  }
+}

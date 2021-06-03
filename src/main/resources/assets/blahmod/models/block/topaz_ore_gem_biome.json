@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/topazore",
+    "up": "blahmod:blocks/topazore",
+    "north": "blahmod:blocks/topazore",
+    "east": "blahmod:blocks/topazore",
+    "south": "blahmod:blocks/topazore",
+    "west": "blahmod:blocks/topazore",
+    "particle": "blahmod:blocks/topazore"
+  }
+}

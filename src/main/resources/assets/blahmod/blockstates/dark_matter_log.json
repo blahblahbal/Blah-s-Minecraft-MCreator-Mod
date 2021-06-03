@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "blahmod:block/dark_matter_log"
+    },
+    "facing=north": {
+      "model": "blahmod:block/dark_matter_log"
+    },
+    "facing=east": {
+      "model": "blahmod:block/dark_matter_log",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "blahmod:block/dark_matter_log",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "blahmod:block/dark_matter_log",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "blahmod:block/dark_matter_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

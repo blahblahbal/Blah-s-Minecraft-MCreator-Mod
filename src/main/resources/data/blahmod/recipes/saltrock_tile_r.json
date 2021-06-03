@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:polished_saltrock"
+    },
+    "1": {
+      "item": "blahmod:polished_saltrock"
+    },
+    "2": {
+      "item": "blahmod:polished_saltrock"
+    },
+    "3": {
+      "item": "blahmod:polished_saltrock"
+    }
+  },
+  "result": {
+    "item": "blahmod:saltrock_tile",
+    "count": 4
+  }
+}

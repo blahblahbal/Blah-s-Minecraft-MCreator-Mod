@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "blahmod:black_sand",
+    "blahmod:dread_sand",
+    "blahmod:frost_sand",
+    "blahmod:ethereal_dirt",
+    "blahmod:bonesand"
+  ]
+}

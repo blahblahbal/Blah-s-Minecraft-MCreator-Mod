@@ -1,0 +1,13 @@
+{
+  "parent": "blahmod:custom/reinchest",
+  "textures": {
+    "all": "blahmod:blocks/reinchest_bottom",
+    "particle": "blahmod:blocks/reinchest_bottom",
+    "top": "blahmod:blocks/reinchest_bottom",
+    "left": "blahmod:blocks/reinchest_sideback",
+    "bottom": "blahmod:blocks/reinchest_bottom",
+    "back": "blahmod:blocks/reinchest_sideback",
+    "front": "blahmod:blocks/reinchest_front",
+    "right": "blahmod:blocks/reinchest_sideback"
+  }
+}

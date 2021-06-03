@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STONE_SLAB#4"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#4"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#4"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#4"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#4"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#4"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.BRICK_BLOCK"
+    },
+    "name": "brick_slab_decraft",
+    "namespace": "mod"
+  }
+}

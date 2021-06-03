@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "blahmod:tadanite_pickaxe"
+  },
+  "addition": {
+    "item": "blahmod:lumite_construct"
+  },
+  "result": {
+    "item": "blahmod:lumite_pickaxe"
+  }
+}

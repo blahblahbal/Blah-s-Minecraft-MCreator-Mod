@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 0.84,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:ObsidianIngot"
+    },
+    "name": "obsidian_blasting",
+    "namespace": "mod"
+  }
+}

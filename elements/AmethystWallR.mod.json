@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AmethystBlock"
+      },
+      {
+        "value": "CUSTOM:AmethystBlock"
+      },
+      {
+        "value": "CUSTOM:AmethystBlock"
+      },
+      {
+        "value": "CUSTOM:AmethystBlock"
+      },
+      {
+        "value": "CUSTOM:AmethystBlock"
+      },
+      {
+        "value": "CUSTOM:AmethystBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AmethystWall"
+    },
+    "name": "amethyst_wall_r",
+    "namespace": "mod"
+  }
+}

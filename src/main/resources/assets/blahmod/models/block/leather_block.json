@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/leatherblock",
+    "up": "blahmod:blocks/leatherblock",
+    "north": "blahmod:blocks/leatherblock",
+    "east": "blahmod:blocks/leatherblock",
+    "south": "blahmod:blocks/leatherblock",
+    "west": "blahmod:blocks/leatherblock",
+    "particle": "blahmod:blocks/leatherblock"
+  }
+}

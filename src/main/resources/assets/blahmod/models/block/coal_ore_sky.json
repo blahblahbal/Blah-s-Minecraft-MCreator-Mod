@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/coaloresky",
+    "up": "blahmod:blocks/coaloresky",
+    "north": "blahmod:blocks/coaloresky",
+    "east": "blahmod:blocks/coaloresky",
+    "south": "blahmod:blocks/coaloresky",
+    "west": "blahmod:blocks/coaloresky",
+    "particle": "blahmod:blocks/coaloresky"
+  }
+}

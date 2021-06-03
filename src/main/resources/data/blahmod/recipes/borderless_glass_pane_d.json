@@ -1,0 +1,39 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:borderless_glass_pane"
+    },
+    "1": {
+      "item": "blahmod:borderless_glass_pane"
+    },
+    "2": {
+      "item": "blahmod:borderless_glass_pane"
+    },
+    "3": {
+      "item": "blahmod:borderless_glass_pane"
+    },
+    "5": {
+      "item": "blahmod:borderless_glass_pane"
+    },
+    "6": {
+      "item": "blahmod:borderless_glass_pane"
+    },
+    "7": {
+      "item": "blahmod:borderless_glass_pane"
+    },
+    "8": {
+      "item": "blahmod:borderless_glass_pane"
+    }
+  },
+  "result": {
+    "item": "blahmod:borderless_glass",
+    "count": 3
+  }
+}

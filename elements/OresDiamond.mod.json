@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DiamondOreGemBiome"
+      },
+      {
+        "value": "CUSTOM:DiamondOreSky"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ores/diamond",
+    "namespace": "forge"
+  }
+}

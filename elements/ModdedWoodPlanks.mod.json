@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:TropicsPlanks"
+      },
+      {
+        "value": "CUSTOM:CedarPlanks"
+      },
+      {
+        "value": "CUSTOM:FrostWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DreadPlanks"
+      }
+    ],
+    "functions": [],
+    "name": "modded_wood_planks",
+    "namespace": "forge"
+  }
+}

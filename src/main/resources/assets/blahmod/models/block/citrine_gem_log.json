@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blahmod:blocks/citrine_gem_log_top",
+    "up": "blahmod:blocks/citrine_gem_log_top",
+    "north": "blahmod:blocks/gem_log_no_gem",
+    "east": "blahmod:blocks/gem_log_no_gem",
+    "south": "blahmod:blocks/gem_log_no_gem",
+    "west": "blahmod:blocks/gem_log_no_gem",
+    "particle": "blahmod:blocks/citrine_gem_log_top"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:cobblestone_types"
+      },
+      {
+        "value": "TAG:cobblestone_types"
+      },
+      {
+        "value": "TAG:cobblestone_types"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.QUARTZ"
+      },
+      {
+        "value": "TAG:cobblestone_types"
+      },
+      {
+        "value": "TAG:cobblestone_types"
+      },
+      {
+        "value": "TAG:cobblestone_types"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.OBSERVER"
+    },
+    "name": "observer_r",
+    "namespace": "mod"
+  }
+}

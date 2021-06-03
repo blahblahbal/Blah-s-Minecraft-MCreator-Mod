@@ -1,0 +1,42 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:topaz"
+    },
+    "1": {
+      "item": "blahmod:topaz"
+    },
+    "2": {
+      "item": "blahmod:topaz"
+    },
+    "3": {
+      "item": "blahmod:topaz"
+    },
+    "4": {
+      "item": "blahmod:topaz"
+    },
+    "5": {
+      "item": "blahmod:topaz"
+    },
+    "6": {
+      "item": "blahmod:topaz"
+    },
+    "7": {
+      "item": "blahmod:topaz"
+    },
+    "8": {
+      "item": "blahmod:topaz"
+    }
+  },
+  "result": {
+    "item": "blahmod:topaz_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:igneous_rock"
+    },
+    "1": {
+      "item": "blahmod:igneous_rock"
+    },
+    "2": {
+      "item": "blahmod:igneous_rock"
+    },
+    "3": {
+      "item": "blahmod:igneous_rock"
+    }
+  },
+  "result": {
+    "item": "blahmod:polished_igneous_rock",
+    "count": 4
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:whitewood_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "blahmod:whitewood_planks"
+    },
+    "3": {
+      "item": "blahmod:whitewood_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "blahmod:whitewood_planks"
+    }
+  },
+  "result": {
+    "item": "blahmod:whitewood_fence",
+    "count": 3
+  }
+}

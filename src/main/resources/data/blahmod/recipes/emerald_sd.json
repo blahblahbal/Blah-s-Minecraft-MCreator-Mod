@@ -1,0 +1,26 @@
+{
+  "group": "blahmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blahmod:emerald_stairs"
+    },
+    "1": {
+      "item": "blahmod:emerald_stairs"
+    },
+    "2": {
+      "item": "blahmod:emerald_stairs"
+    },
+    "3": {
+      "item": "blahmod:emerald_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald_block",
+    "count": 6
+  }
+}
